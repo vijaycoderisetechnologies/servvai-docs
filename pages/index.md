@@ -4,7 +4,9 @@ permalink: /
 nav_exclude: true
 ---
 <img src="/assets/logo.png">
-<img src="/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
+<img src="{{ site.baseurl }}/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
+<img src="https://vijaycoderisetechnologies.github.io/justthedocs/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
+
 
 
 # Welcome to Servv Support
