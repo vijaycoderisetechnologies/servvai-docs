@@ -15,6 +15,8 @@ Welcome to **Servv AI’s** support documentation site, where customers can lear
        alt="Servv Overview"
        style="max-width: 100%; height: auto;" />
 
+---
+
 ##  What is Servv AI?
 
 **Servv AI** is a comprehensive event booking and management platform designed to simplify your event workflows. Whether you're hosting online or in-person events, Servv empowers you to sell, schedule, and manage with ease.
@@ -29,11 +31,15 @@ Welcome to **Servv AI’s** support documentation site, where customers can lear
 
 Servv brings together powerful automation and intuitive design to deliver a seamless experience for both administrators and attendees. Whether you're running workshops, webinars, or consultations, Servv has the tools you need.
 
+---
+
 ##  Getting Started
 
 **Ready to launch your first event?**
 
 Head over to our [**Setting up your first event**](https://support.servv.ai/getting-started/event/) where we walk you through:
+
+---
 
 ##  Why Servv?
 
@@ -44,6 +50,8 @@ Servv brings together powerful automation and intuitive design to deliver a seam
 - **Automation Built-In**: Reduce manual work with email reminders, calendar syncing, and follow-ups.
 
 Our mission is to help you focus on delivering value while we handle the booking logistics.
+
+---
 
 ##  Documentation Sections
 
@@ -80,6 +88,8 @@ Here’s what you’ll find in this portal:
      - [**Widget Translations**](https://support.servv.ai/getting-started/setting/widgettranslations/): Translate widget text to multiple languages for a localized booking experience.
 
 Use the sidebar navigation or the search bar to find exactly what you need.
+
+---
 
 ##  Need Help?
 
