@@ -3,45 +3,23 @@ title: Home
 permalink: /
 nav_exclude: true
 ---
-<img src="/assets/logo.png">
+
 <img src="{{ site.baseurl }}/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
-<img src="https://vijaycoderisetechnologies.github.io/justthedocs/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
-
-
 
 # Welcome to Servv Support
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-  <!-- TEXT COLUMN -->
-  <div style="flex: 1; min-width: 300px;">
-    <p>
-      Welcome to <strong>Servv AI’s support documentation</strong> site, where customers can learn how to create and manage their events with the help of the Servv AI plugin in <strong>WordPress</strong> and <strong>Shopify</strong>.
-    </p>
-    <p>
-      Whether you're a beginner or a seasoned user, you'll find step-by-step tutorials, configuration tips, integration guides, and troubleshooting help.
-    </p>
-    <p>
-      To learn more about Servv AI, visit <a href="https://servv.ai">servv.ai</a>.
-    </p>
-  </div>
+Welcome to **Servv AI’s** support documentation site, where customers can learn how to create and manage their events with the help of the **Servv AI plugin** in **WordPress**. Whether you're a beginner or a seasoned user, you'll find step-by-step tutorials, configuration tips, integration guides, and troubleshooting help. To learn more about Servv AI, visit **https://servv.ai**
 
-  <!-- IMAGE COLUMN -->
-  <div style="flex: 1; min-width: 300px;">
-     <img src="https://servv-email.s3.us-east-2.amazonaws.com/email-template-designs/servvai-wordpress.jpg" 
-       alt="Servv Overview" 
+<div style="flex: 1; min-width: 300px;">
+     <img src="https://servv-email.s3.us-east-2.amazonaws.com/email-template-designs/servvai-wordpress.jpg"
+       alt="Servv Overview"
        style="max-width: 100%; height: auto;" />
-    
-  </div>
-
-</div>
-
----
 
 ##  What is Servv AI?
 
 **Servv AI** is a comprehensive event booking and management platform designed to simplify your event workflows. Whether you're hosting online or in-person events, Servv empowers you to sell, schedule, and manage with ease.
 
-## With Servv AI, You can
+## With Servv AI, You Can
 
 - Create and manage events directly from your WordPress dashboard.
 - Accept payments through Stripe.
@@ -51,15 +29,11 @@ nav_exclude: true
 
 Servv brings together powerful automation and intuitive design to deliver a seamless experience for both administrators and attendees. Whether you're running workshops, webinars, or consultations, Servv has the tools you need.
 
----
-
 ##  Getting Started
 
 **Ready to launch your first event?**
 
 Head over to our [**Setting up your first event**](https://support.servv.ai/getting-started/event/) where we walk you through:
-
----
 
 ##  Why Servv?
 
@@ -70,8 +44,6 @@ Servv brings together powerful automation and intuitive design to deliver a seam
 - **Automation Built-In**: Reduce manual work with email reminders, calendar syncing, and follow-ups.
 
 Our mission is to help you focus on delivering value while we handle the booking logistics.
-
----
 
 ##  Documentation Sections
 
@@ -109,8 +81,6 @@ Here’s what you’ll find in this portal:
 
 Use the sidebar navigation or the search bar to find exactly what you need.
 
----
-
 ##  Need Help?
 
 If you're stuck or need further assistance:
@@ -123,4 +93,4 @@ We're here to help — every step of the way.
 
 ---
 
-Thank you for choosing Servv AI. Let's build smarter events, together. 
+Thank you for choosing Servv AI. Let's build smarter events, together.
