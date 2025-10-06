@@ -10,7 +10,7 @@ Welcome to the Servv AI Event Management guide. This page provides a high-level 
 
 ---
 
-## Create an Event
+## [Create an Event](https://support.servv.ai/getting-started/event/createevent/)
 
 Get started by creating your first event in just a few clicks. With Servv AI, you can configure:
 
@@ -25,7 +25,7 @@ Get started by creating your first event in just a few clicks. With Servv AI, yo
 
 ---
 
-## View Your Event
+## [View Your Event](https://support.servv.ai/getting-started/event/view/)
 
 Once your event is created, learn how to:
 
@@ -39,7 +39,7 @@ Once your event is created, learn how to:
 
 ---
 
-## Configure Event Settings
+## [Configure Event Settings](https://support.servv.ai/getting-started/event/setting/)
 
 Customize the core settings to align your event with your brand and audience needs:
 
@@ -53,7 +53,7 @@ Customize the core settings to align your event with your brand and audience nee
 
 ---
 
-## Edit an Existing Event
+## [Edit an Existing Event](https://support.servv.ai/getting-started/event/edit/)
 
 Update or revise any aspect of your event with ease:
 
@@ -67,7 +67,7 @@ Update or revise any aspect of your event with ease:
 
 ---
 
-## Delete an Event
+## [Delete an Event](https://support.servv.ai/getting-started/event/delete/)
 
 When an event is no longer needed:
 

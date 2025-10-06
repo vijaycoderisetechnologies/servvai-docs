@@ -16,7 +16,7 @@ has_children: true
 ### Access the Servv AI Plugin
 - Click **Servv AI Event Booking** to open the Servv AI interface within your WordPress dashboard.
 
-![plugin](../../images/servv.png)
+<img src="{{ site.baseurl }}/assets/images/servv.png" alt="servv.png" style="max-height: 60px;">
 
 ### Navigate to the Events Section
 - In the Servv AI interface, Open the **Events** section in the sidebar.
