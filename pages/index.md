@@ -10,10 +10,7 @@ nav_exclude: true
 
 Welcome to **Servv AI’s** support documentation site, where customers can learn how to create and manage their events with the help of the **Servv AI plugin** in **WordPress**. Whether you're a beginner or a seasoned user, you'll find step-by-step tutorials, configuration tips, integration guides, and troubleshooting help. To learn more about Servv AI, visit **https://servv.ai**
 
-<div style="flex: 1; min-width: 300px;">
-     <img src="https://servv-email.s3.us-east-2.amazonaws.com/email-template-designs/servvai-wordpress.jpg"
-       alt="Servv Overview"
-       style="max-width: 100%; height: auto;" />
+![Servv Logo](https://servv-email.s3.us-east-2.amazonaws.com/email-template-designs/servvai-wordpress.jpg)
 
 ---
 
