@@ -3,7 +3,9 @@ title: Home
 permalink: /
 nav_exclude: true
 ---
-<img src="../assets/logo.png">
+<img src="/assets/logo.png">
+<img src="/assets/logo.png" alt="Servv AI Logo" style="max-height: 60px;">
+
 
 # Welcome to Servv Support
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
