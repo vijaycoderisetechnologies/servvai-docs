@@ -1,5 +1,5 @@
 ---
-title: Edit Events
+title: Create Recurring Events
 parent: Events
 nav_order: 4
 ---
