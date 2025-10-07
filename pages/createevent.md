@@ -16,7 +16,7 @@ has_children: true
 ### Access the Servv AI Plugin
 - Click **Servv AI Event Booking** to open the Servv AI interface within your WordPress dashboard.
 
-<img src="{{ site.baseurl }}/assets/images/servv.png" alt="servv.png" style="max-height: 100px;">
+![Event Section](../assets/images/servv.png)
 
 ### Navigate to the Events Section
 - In the Servv AI interface, Open the **Events** section in the sidebar.
@@ -39,7 +39,7 @@ In the event creation form, provide the following details:
 
 [Learn more about Recurring Types →](https://support.servv.ai/getting-started/event/recurring/)
 
-<img src="/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
+<img src="../assets/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 
 - **Venue & Access**: In this section, you can choose how attendees will join your event. There are two main options:
   -  **In-Person**  
