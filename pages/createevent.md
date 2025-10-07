@@ -39,7 +39,7 @@ In the event creation form, provide the following details:
 
 [Learn more about Recurring Types →](https://support.servv.ai/getting-started/event/recurring/)
 
-<img src="../assets/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
+<img src="{{ site.baseurl }}/assets/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 
 - **Venue & Access**: In this section, you can choose how attendees will join your event. There are two main options:
   -  **In-Person**  
