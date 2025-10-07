@@ -22,7 +22,7 @@ has_children: true
 - In the Servv AI interface, Open the **Events** section in the sidebar.
 - Click **New Event** to open the event creation form.
 
-![Event Section](/images/newevent.png)
+![Event Section](../assets/images/newevent.png)
 
 ### Fill Out the Event Form
 In the event creation form, provide the following details:
