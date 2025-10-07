@@ -1,7 +1,7 @@
 ---
 title: Create Recurring Events
 parent: Events
-nav_order: 4
+nav_order: 2
 ---
 # Configuring Recurring Events
 
