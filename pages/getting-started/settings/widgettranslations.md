@@ -3,12 +3,12 @@ title: Widget Translations Settings
 parent: Settings
 nav_order: 5
 ---
-# Navigating to Servv.io Widget Translations
+# Navigating to Servv AI Widget Translations
 
 Follow these steps to access the `Widget Translations` section in Servv.io:
 
 ### Step 1: Click on Servv
-Click on servv to open `Servv Ai`.
+Click on **ServvAI Event Booking** to open `Servv Ai`.
 
 <img src="{{ site.baseurl }}/assets/images/servv.png" alt="Servv" width="250" style="max-width: 100%; height: auto;" />
 
