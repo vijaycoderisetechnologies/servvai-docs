@@ -2,7 +2,6 @@
 title: Create Events
 parent: Events
 nav_order: 1
-has_children: true
 ---
 # Create Event
 <iframe width="900" height="500" src="https://www.youtube.com/embed/k4pnUysm1ZY?si=HRJW24m2RlKHoFri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
