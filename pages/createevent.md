@@ -18,11 +18,13 @@ has_children: true
 
 ![Event Section](../assets/images/servv.png)
 
+<img src="{{ site.baseurl }}/assets/images/servv.png" alt="Servv" width="250" style="max-width: 100%; height: auto;" />
+
 ### Navigate to the Events Section
 - In the Servv AI interface, Open the **Events** section in the sidebar.
 - Click **New Event** to open the event creation form.
 
-![Event Section](../assets/images/newevent.png)
+<img src="{{ site.baseurl }}/assets/images/newevent.png" alt="Servv" width="800" style="max-width: 100%; height: auto;" />
 
 ### Fill Out the Event Form
 In the event creation form, provide the following details:
@@ -46,16 +48,16 @@ In the event creation form, provide the following details:
       - Add venue details such as the physical address.  
       - Optionally include parking or venue access details, directions, or a link to a map for attendees. 
 
-<img src="/images/inperson.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" /> 
+<img src="{{ site.baseurl }}/assets/images/inperson.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" /> 
 
    - **Online or Hybrid**  
       - **Meeting URL**: Simply paste the meeting link (e.g., Google Meet, Microsoft Teams, Zoom). 
 
-      <img src="/images/meetingurl.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
+      <img src="{{ site.baseurl }}/assets/images/meetingurl.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 
       - **Zoom API Integration**: Servv AI can automatically create and send a Zoom link for your event using Zoom API integration. Select the **Zoom account** from the dropdown menu for automatic link generation.
 
-      <img src="/images/zoomapi.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
+      <img src="{{ site.baseurl }}/assets/images/zoomapi.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 
 - **Create New Ticket**: Add one or more ticket types (e.g., Free, Paid, Donation). For each ticket type, configure:
      - **Ticket Name**: E.g., "General Admission," "VIP," or "Donation."
@@ -67,7 +69,7 @@ In the event creation form, provide the following details:
 
 - Click **Save** to store the event ticket details.
 
-<img src="/images/ticket.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
+<img src="{{ site.baseurl }}/assets/images/ticket.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 
 [Learn More about ticket →](https://support.servv.ai/getting-started/event/ticket/)
 
@@ -89,7 +91,7 @@ In the event creation form, provide the following details:
 - **Title** - Parking
 - **Discription** - Paid parking is available near the venue. We recommend using public transport or carpooling.
 
-<img src="/images/additionalnotes.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />     
+<img src="{{ site.baseurl }}/assets/images/additionalnotes.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />     
 
 ### Publish the Event
 Review all event details to ensure accuracy. Click **Publish** to make the event live on your WordPress site.
