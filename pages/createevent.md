@@ -99,7 +99,7 @@ Review all event details to ensure accuracy. Click **Publish** to make the event
 The event will now be visible to visitors, and attendees can register or purchase tickets based on your configuration.
 Servv AI supports automated email notifications and calendar integrations (e.g., Google Calendar) for attendees.
 
-![Publish](/images/publish.png)  
+<img src="{{ site.baseurl }}/assets/images/apublish.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />  
 
 ## Related Links
 
