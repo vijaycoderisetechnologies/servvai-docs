@@ -36,8 +36,6 @@ In the event creation form, provide the following details:
      - Select whether the event is **One-time** or **Recurring**.
      - For recurring events, specify the recurrence pattern (e.g., daily, weekly, monthly).
 
-[Learn more about Recurring Types →](https://support.servv.ai/getting-started/event/recurring/)
-
 [[Learn more about Recurring Types →]](https://vijaycoderisetechnologies.github.io/justthedocs/pages/getting-started/events/recurring/)
 
 <img src="{{ site.baseurl }}/assets/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
