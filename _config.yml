@@ -11,6 +11,7 @@ remote_theme: "pmarsceill/just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
   
 # Optional: markdown, permalinks, etc.
 markdown: kramdown
