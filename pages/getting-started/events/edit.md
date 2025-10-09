@@ -1,7 +1,7 @@
 ---
 title: Edit Events
 parent: Events
-nav_order: 3
+nav_order: 6
 ---
 # Edit Event
 

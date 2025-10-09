@@ -1,7 +1,7 @@
 ---
 title: Events Settings
 parent: Events
-nav_order: 5
+nav_order: 3
 ---
 # Configure Event Settings
 

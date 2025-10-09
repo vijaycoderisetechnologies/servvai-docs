@@ -15,8 +15,6 @@ nav_order: 1
 ### Access the Servv AI Plugin
 - Click **Servv AI Event Booking** to open the Servv AI interface within your WordPress dashboard.
 
-![Event Section](../assets/images/servv.png)
-
 <img src="{{ site.baseurl }}/assets/images/servv.png" alt="Servv" width="250" style="max-width: 100%; height: auto;" />
 
 ### Navigate to the Events Section
@@ -39,6 +37,8 @@ In the event creation form, provide the following details:
      - For recurring events, specify the recurrence pattern (e.g., daily, weekly, monthly).
 
 [Learn more about Recurring Types →](https://support.servv.ai/getting-started/event/recurring/)
+
+[[Learn more about Recurring Types →]](https://vijaycoderisetechnologies.github.io/justthedocs/pages/getting-started/events/recurring/)
 
 <img src="{{ site.baseurl }}/assets/images/recurring.png" alt="Servv" width="600" style="max-width: 100%; height: auto;" />
 

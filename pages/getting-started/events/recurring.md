@@ -1,7 +1,7 @@
 ---
 title: Create Recurring Events
 parent: Events
-nav_order: 2
+nav_exclude: true   # 👈 this hides it from sidebar navigation
 ---
 # Configuring Recurring Events
 

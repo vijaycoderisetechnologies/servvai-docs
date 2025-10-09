@@ -1,7 +1,7 @@
 ---
 title: Add Registrants
 parent: Events
-nav_order: 6
+nav_order: 4
 ---
 # How to Add a Registrant to the Event
 
