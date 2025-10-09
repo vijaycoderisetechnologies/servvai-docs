@@ -2,7 +2,7 @@ title: Servv AI Documentation
 description: Documentation site for JustTheDocs
 # Because this is a *project site*, baseurl must be your repo name (the subdirectory)
 baseurl: "/justthedocs"
-url: "https://vijaycoderisetechnologies.github.io"
+url: "https://github.com/coderisetechnologiesinc"
 
 # --- THEME SETUP ---
 remote_theme: "pmarsceill/just-the-docs"
@@ -11,7 +11,7 @@ remote_theme: "pmarsceill/just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  
 # Optional: markdown, permalinks, etc.
 markdown: kramdown
 permalink: pretty
@@ -22,5 +22,5 @@ back_to_top_text: "Back to top"
 
 aux_links:
   "Servv AI on GitHub":
-    - "//https://github.com/coderisetechnologiesinc/servvai-event-booking"
+    - "https://github.com/coderisetechnologiesinc/servvai-event-booking"
 aux_links_new_tab: true
