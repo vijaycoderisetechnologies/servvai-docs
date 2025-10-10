@@ -3,7 +3,7 @@ title: Ticket Type
 parent: Events
 nav_exclude: true   # 👈 this hides it from sidebar navigation
 ---
-# Ticket Type foe event
+# Ticket Type free event
 
 !!! info "⚡ Premium Feature"
     The **Paid ticket** feature is available only on Premium plans.
