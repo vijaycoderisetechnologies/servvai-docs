@@ -5,11 +5,11 @@ nav_order: 4
 ---
 # Servv Widget Shortcode Guide
 
-The Servv plugin allows you to add a fully customizable **event widget** anywhere on your WordPress website using a simple shortcode.
+The Servv plugin allows you to add a fully customizable **Event Widget** anywhere on your WordPress website using a simple shortcode.
 
 ---
 
-## How to Add the Widget
+## How to Add the Widget 
 
 Follow these steps to display the widget:
 
@@ -53,6 +53,54 @@ You can customize the widget appearance by changing the `style` and `preset` att
 
 <img src="{{ site.baseurl }}/assets/images/presetdark.png" alt="Servv" width="400" style="max-width: 100%; height: auto;" />
 
+## Filtered Widget Shortcodes
+
+Servv AI also allows you to display events filtered by **Location**, **Language**, **Member**, or **Category** directly through shortcode.
+
+This feature is useful if you want to show only specific types of events on a page — for example, events happening in a certain location or belonging to a specific category.
+
+### Single Filter Usage
+
+You can apply any one of the filters below individually:
+
+- **Location-based events:**
+  [servvai location="pune"]
+
+- **Language-based events:**
+  [servvai language="english"]
+
+- **Category-based events:**
+[servvai category="webinar"]
+
+- **Member-based events:**
+  [servvai member="john-doe"]
+
+### Multiple Filter Values
+You can include multiple values for the same filter by separating them with a `$` symbol.
+
+Examples:
+
+- **Multiple locations:**
+  [servvai location="pune$mumbai$delhi"]
+
+- **Multiple languages:**
+  [servvai language="english$spanish"]
+
+- **Multiple categories:**
+  [servvai category="webinar$workshop$conference"]
+
+- **Multiple members:**
+  [servvai member="john-doe$jane-smith"]
+
+### Combined Filters
+You can also combine multiple filters together in one shortcode to narrow down the events shown in the widget.
+
+Example — Show only English webinars happening in Canada:
+
+[servvai location="canada" language="english" category="webinar"]
+
+You can mix and match any combination of `location`, `language`, `category`, and `member` filters.
+        
 # Widget Settings
 
 ## Accessing Widget Settings
