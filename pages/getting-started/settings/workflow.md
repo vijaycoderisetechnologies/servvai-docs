@@ -52,22 +52,22 @@ When a booking is canceled, servv ai sends a cancellation request to your n8n en
 
 ## How to Use
 
-1. Go to your **WordPress Dashboard → Servv AI → Setting → Workflow**. 
+- Go to your **WordPress Dashboard → Servv AI → Setting → Workflow**. 
 
 <img src="{{ site.baseurl }}/assets/images/workflow.png" alt="Servv" width="700" style="max-width: 100%; height: auto;" />
 
-2. Toggle **ON** the trigger you want to use:
+- Toggle **ON** the trigger you want to use:
    - Event Created
    - New Booking
    - Canceled Booking  
 
-3. Add your **Webhook URL** and **Secret** (from your n8n workflow). 
+- Add your **Webhook URL** and **Secret** (from your n8n workflow). 
 
 <img src="{{ site.baseurl }}/assets/images/triggeres.png" alt="Servv" width="700" style="max-width: 100%; height: auto;" />
 
-4. Save the settings.  
+- Save the settings.  
 
-5. Test by performing the related action in servv ai — the workflow in n8n should trigger automatically.
+- Test by performing the related action in servv ai — the workflow in n8n should trigger automatically.
 
 ---
 
