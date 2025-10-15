@@ -40,7 +40,7 @@ Enable this option to trigger a workflow whenever a **booking is canceled** by a
 **How It Works:**  
 When a booking is canceled, servv ai sends a cancellation request to your n8n endpoint.
 
-**Configuration:**
+## Configuration
 
 | Setting | Description | Example |
 |----------|--------------|----------|
