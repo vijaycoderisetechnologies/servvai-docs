@@ -28,8 +28,6 @@ Enable this option to trigger a workflow whenever a **new booking** is made for 
 **How It Works:**  
 When a user books an event, servv ai sends booking details to your configured n8n webhook endpoint.
 
-**Configuration:**
-
 ---
 
 ## Canceled Booking Trigger
