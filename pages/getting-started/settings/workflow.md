@@ -1,3 +1,8 @@
+---
+title: Workflow
+parent: Settings
+nav_order: 6
+---
 # Trigger Workflow Settings
 
 This feature allows you to connect your servv ai with **n8n** or other automation tools.  

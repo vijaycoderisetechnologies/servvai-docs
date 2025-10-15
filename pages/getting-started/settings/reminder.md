@@ -1,7 +1,7 @@
 ---
-title: Reminder Settings
+title: Reminder
 parent: Settings
-nav_order: 3
+nav_order: 2
 ---
 # Configuring Reminder
 

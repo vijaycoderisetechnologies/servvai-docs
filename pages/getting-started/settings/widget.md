@@ -1,5 +1,5 @@
 ---
-title: Widget Settings
+title: Widget
 parent: Settings
 nav_order: 4
 ---

@@ -1,7 +1,7 @@
 ---
-title: General Settings
+title: General
 parent: Settings
-nav_order: 2
+nav_order: 1
 ---
 # General Settings Configuration
 

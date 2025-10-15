@@ -1,7 +1,7 @@
 ---
-title: Billing Settings
+title: Billing
 parent: Settings
-nav_order: 1
+nav_order: 3
 ---
 # Premium Plan Activation Guide
 
