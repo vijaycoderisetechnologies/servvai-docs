@@ -26,7 +26,7 @@ Once enabled, servv ai will send event data to the configured n8n webhook URL us
 Enable this option to trigger a workflow whenever a **new booking** is made for an event.
 
 **How It Works:**  
-When a user books an event, servv ai sends booking details to your configured n8n webhook endpoint.
+When a user books an event, servv ai sends booking details to your configured n8n webhook URL using a `POST` request.
 
 ---
 
@@ -36,7 +36,7 @@ When a user books an event, servv ai sends booking details to your configured n8
 Enable this option to trigger a workflow whenever a **booking is canceled** by a user or admin.
 
 **How It Works:**  
-When a booking is canceled, servv ai sends a cancellation request to your n8n endpoint.
+When a booking is canceled, servv ai sends a cancellation details to your n8n webhook URL using a `POST` request.
 
 ## Configuration
 
@@ -78,13 +78,12 @@ This guide explains how to:
 - Create a new workflow in n8n  
 - Add a **Webhook** node  
 - Configure the **HTTP Method** and **Response Mode**  
-- Copy your webhook URL and use it inside the plugin settings  
+- Copy your webhook URL and use it inside the servv ai workflow under settings  
 
 ---
 
 ## Notes
-
-- Make sure your n8n webhook URL is **publicly accessible**.  
+ 
 - The **Secret** value in servv ai must match the **Secret** configured in your n8n workflow.  
 - Each trigger operates independently — you can enable one, two, or all triggers.  
 - These webhooks help automate processes like sending notifications, or creating reports.
