@@ -2,7 +2,7 @@ title: Servv AI Documentation
 description: Documentation site for JustTheDocs
 # Because this is a *project site*, baseurl must be your repo name (the subdirectory)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/coderisetechnologiesinc"
+url: "https://github.com/vijaycoderisetechnologies"
 
 # --- THEME SETUP ---
 remote_theme: "pmarsceill/just-the-docs"
