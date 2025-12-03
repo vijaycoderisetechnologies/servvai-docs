@@ -1,6 +1,6 @@
 ---
 title: Bookings
-parent: Setup Your First Event
+parent: Servv Ai Plugin for WordPress
 nav_order: 2
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Settings
-parent: Setup Your First Event
+parent: Servv Ai Plugin for WordPress
 nav_order: 7
 has_children: true
 ---
