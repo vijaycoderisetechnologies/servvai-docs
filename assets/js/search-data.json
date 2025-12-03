@@ -2,1449 +2,1449 @@
     "doc": "Analytics",
     "title": "Analytics",
     "content": " ",
-    "url": "/pages/getting-started/analytics/analytics/",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics/",
     
     "relUrl": "/pages/getting-started/analytics/analytics/"
   },"1": {
     "doc": "Access Analytics",
     "title": "Analytics Documentation",
     "content": " ",
-    "url": "/pages/getting-started/analytics/analytics1/#analytics-documentation",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#analytics-documentation",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#analytics-documentation"
   },"2": {
     "doc": "Access Analytics",
     "title": "Accessing the Analytics Section",
     "content": "To open the Analytics section: . | Go to the servv AI plugin in your WordPress dashboard. | Click on Analytics in the side menu bar in servv ai. | . The Analytics section contains the following tabs: . | Revenue | Resistant | Event | Filter | . ",
-    "url": "/pages/getting-started/analytics/analytics1/#accessing-the-analytics-section",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#accessing-the-analytics-section",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#accessing-the-analytics-section"
   },"3": {
     "doc": "Access Analytics",
     "title": "Revenue Tab",
     "content": ". | Default View: Displays all revenues. | Filtering Revenues: Use the Date Picker to select a date range. | After selecting the range, the system will display the revenue between the chosen dates. | . ",
-    "url": "/pages/getting-started/analytics/analytics1/#revenue-tab",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#revenue-tab",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#revenue-tab"
   },"4": {
     "doc": "Access Analytics",
     "title": "Registrant Tab",
     "content": ". | Default View: Shows all resistants. | Filtering by Month and Year: Two dropdown menus are available: - Month Selector - Year Selector . | Select a specific month or year to view resistants for that period. | . | A Reset button is provided to clear the selection. | . ",
-    "url": "/pages/getting-started/analytics/analytics1/#registrant-tab",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#registrant-tab",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#registrant-tab"
   },"5": {
     "doc": "Access Analytics",
     "title": "Event Tab",
     "content": "Shows the total number of: . | Active Events | Events Happened | Cancelled Events | . ",
-    "url": "/pages/getting-started/analytics/analytics1/#event-tab",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#event-tab",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#event-tab"
   },"6": {
     "doc": "Access Analytics",
     "title": "Filter Tab",
     "content": "Displays the count of filters created in the system: . | Language Filters Shows which languages are created, e.g., English, Hindi, or any other language. | Location Filters Shows location-based filter options, e.g., Canada, Hong Kong, India. | Category Filters Displays available category-based filter options (based on event or system setup). | . ",
-    "url": "/pages/getting-started/analytics/analytics1/#filter-tab",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#filter-tab",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#filter-tab"
   },"7": {
     "doc": "Access Analytics",
     "title": "Related Links",
     "content": "Create Event – https://support.servv.ai/getting-started/event/createevent/ . Create Filter – https://support.servv.ai/getting-started/filter/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/analytics/analytics1/#related-links",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/#related-links",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/#related-links"
   },"8": {
     "doc": "Access Analytics",
     "title": "Access Analytics",
     "content": " ",
-    "url": "/pages/getting-started/analytics/analytics1/",
+    "url": "/servvai-docs/pages/getting-started/analytics/analytics1/",
     
     "relUrl": "/pages/getting-started/analytics/analytics1/"
   },"9": {
     "doc": "Billing",
     "title": "Premium Plan Activation Guide",
     "content": " ",
-    "url": "/pages/getting-started/settings/billing/#premium-plan-activation-guide",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#premium-plan-activation-guide",
     
     "relUrl": "/pages/getting-started/settings/billing/#premium-plan-activation-guide"
   },"10": {
     "doc": "Billing",
     "title": "Access the settings menu via the Servv AI sidebar.",
     "content": ". ",
-    "url": "/pages/getting-started/settings/billing/#access-the-settings-menu-via-the-servv-ai-sidebar",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#access-the-settings-menu-via-the-servv-ai-sidebar",
     
     "relUrl": "/pages/getting-started/settings/billing/#access-the-settings-menu-via-the-servv-ai-sidebar"
   },"11": {
     "doc": "Billing",
     "title": "Navigate to the Billing section within the dashboard.",
     "content": ". ",
-    "url": "/pages/getting-started/settings/billing/#navigate-to-the-billing-section-within-the-dashboard",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#navigate-to-the-billing-section-within-the-dashboard",
     
     "relUrl": "/pages/getting-started/settings/billing/#navigate-to-the-billing-section-within-the-dashboard"
   },"12": {
     "doc": "Billing",
     "title": "Review the Servv Premium Plan details",
     "content": "✨ Try Premium — 7 days free, then $119.00 per year . ",
-    "url": "/pages/getting-started/settings/billing/#review-the-servv-premium-plan-details",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#review-the-servv-premium-plan-details",
     
     "relUrl": "/pages/getting-started/settings/billing/#review-the-servv-premium-plan-details"
   },"13": {
     "doc": "Billing",
     "title": "Select the Activate button located beneath the Premium section.",
     "content": ". ",
-    "url": "/pages/getting-started/settings/billing/#select-the-activate-button-located-beneath-the-premium-section",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#select-the-activate-button-located-beneath-the-premium-section",
     
     "relUrl": "/pages/getting-started/settings/billing/#select-the-activate-button-located-beneath-the-premium-section"
   },"14": {
     "doc": "Billing",
     "title": "You’ll be redirected to the payment page, where you can complete the payment or start your free trial.",
     "content": ". ",
-    "url": "/pages/getting-started/settings/billing/#youll-be-redirected-to-the-payment-page-where-you-can-complete-the-payment-or-start-your-free-trial",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#youll-be-redirected-to-the-payment-page-where-you-can-complete-the-payment-or-start-your-free-trial",
     
     "relUrl": "/pages/getting-started/settings/billing/#youll-be-redirected-to-the-payment-page-where-you-can-complete-the-payment-or-start-your-free-trial"
   },"15": {
     "doc": "Billing",
     "title": "Once the process is complete, your Premium plan will be activated automatically.",
     "content": ". Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/settings/billing/#once-the-process-is-complete-your-premium-plan-will-be-activated-automatically",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/#once-the-process-is-complete-your-premium-plan-will-be-activated-automatically",
     
     "relUrl": "/pages/getting-started/settings/billing/#once-the-process-is-complete-your-premium-plan-will-be-activated-automatically"
   },"16": {
     "doc": "Billing",
     "title": "Billing",
     "content": " ",
-    "url": "/pages/getting-started/settings/billing/",
+    "url": "/servvai-docs/pages/getting-started/settings/billing/",
     
     "relUrl": "/pages/getting-started/settings/billing/"
   },"17": {
     "doc": "Bookings",
     "title": "Bookings",
     "content": " ",
-    "url": "/pages/getting-started/bookings/bookings/",
+    "url": "/servvai-docs/pages/getting-started/bookings/bookings/",
     
     "relUrl": "/pages/getting-started/bookings/bookings/"
   },"18": {
     "doc": "Calendar Integration",
     "title": "Calendar Integration Guide",
     "content": "This document provides detailed instructions for integrating Google Calendar with your Servv AI account to enable efficient management of events and schedules. The steps outlined below are designed for clarity and ease of use, ensuring a seamless connection process. This guide assumes familiarity with web-based platforms and basic navigation within a user interface. Note: Ensure you have the necessary permissions to access the Integration section in Servv AI and a valid Google account for calendar integration. Screenshots referenced in this guide are illustrative and may vary slightly based on platform updates. ",
-    "url": "/pages/getting-started/integrations/calendar/#calendar-integration-guide",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#calendar-integration-guide",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#calendar-integration-guide"
   },"19": {
     "doc": "Calendar Integration",
     "title": "Prerequisites",
     "content": ". | Active Servv AI account with administrative or integration permissions. | A Google account with access to Google Calendar. | Stable internet connection and a supported browser (e.g., Chrome, Firefox, or Edge). | . ",
-    "url": "/pages/getting-started/integrations/calendar/#prerequisites",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#prerequisites",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#prerequisites"
   },"20": {
     "doc": "Calendar Integration",
     "title": "Navigate to the Integration Section",
     "content": "Log in to your Servv AI account. Locate the side menu bar on the left-hand side of the interface. Click on the Integration option to access the integration dashboard. Reference: The Integration section is typically represented by a dedicated icon or label in the side menu. ",
-    "url": "/pages/getting-started/integrations/calendar/#navigate-to-the-integration-section",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#navigate-to-the-integration-section",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#navigate-to-the-integration-section"
   },"21": {
     "doc": "Calendar Integration",
     "title": "Select Calendar Integration",
     "content": "In the integration dashboard, locate the Calendar option. This may be listed among other available integrations. Click on the Calendar tile or button to proceed to the calendar integration setup. ",
-    "url": "/pages/getting-started/integrations/calendar/#select-calendar-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#select-calendar-integration",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#select-calendar-integration"
   },"22": {
     "doc": "Calendar Integration",
     "title": "Initiate the Connection",
     "content": "On the Calendar integration page, locate the Connect button. Click Connect to start the integration process with Google Calendar. ",
-    "url": "/pages/getting-started/integrations/calendar/#initiate-the-connection",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#initiate-the-connection",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#initiate-the-connection"
   },"23": {
     "doc": "Calendar Integration",
     "title": "Provide Your Email Address",
     "content": "A prompt will appear requesting your Google account email address. Enter the email address associated with the Google Calendar you wish to integrate. Click Continue to proceed. Important: Ensure the email entered is correct and has access to the Google Calendar service. Incorrect credentials may result in connection errors. ",
-    "url": "/pages/getting-started/integrations/calendar/#provide-your-email-address",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#provide-your-email-address",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#provide-your-email-address"
   },"24": {
     "doc": "Calendar Integration",
     "title": "Review and Authorize Permissions",
     "content": "A permissions screen will display, outlining the access Servv AI requires to sync with your Google Calendar (e.g., viewing and managing events). Review the permissions carefully to ensure you understand the scope of access. Select the appropriate options (if applicable) and click Continue to authorize the integration. ",
-    "url": "/pages/getting-started/integrations/calendar/#review-and-authorize-permissions",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#review-and-authorize-permissions",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#review-and-authorize-permissions"
   },"25": {
     "doc": "Calendar Integration",
     "title": "Verify Connection Status",
     "content": "Upon successful authorization, you will be redirected to the integration dashboard. Confirm that the Calendar integration status displays as Connected. Tip: If the status does not show as Connected, verify your credentials, internet connection, and permissions, then repeat the steps. Contact Servv AI support if issues persist. ",
-    "url": "/pages/getting-started/integrations/calendar/#verify-connection-status",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#verify-connection-status",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#verify-connection-status"
   },"26": {
     "doc": "Calendar Integration",
     "title": "Post-Integration Notes",
     "content": ". | Sync Verification: After integration, verify that events and schedules are syncing correctly between Servv AI and your Google Calendar. Allow a few minutes for initial synchronization. | Troubleshooting: If synchronization issues occur, check for error notifications in the integration dashboard or consult the Servv AI help center. | Revoking Access: To disconnect the integration, navigate back to the Calendar integration section, select the connected account, and choose the option to disconnect or revoke access. | . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way.x . ",
-    "url": "/pages/getting-started/integrations/calendar/#post-integration-notes",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/#post-integration-notes",
     
     "relUrl": "/pages/getting-started/integrations/calendar/#post-integration-notes"
   },"27": {
     "doc": "Calendar Integration",
     "title": "Calendar Integration",
     "content": " ",
-    "url": "/pages/getting-started/integrations/calendar/",
+    "url": "/servvai-docs/pages/getting-started/integrations/calendar/",
     
     "relUrl": "/pages/getting-started/integrations/calendar/"
   },"28": {
     "doc": "Categories Filter",
     "title": "Add Category Filter",
     "content": "Access the Filter Dashboard . From your Servv AI side bar, go to Filters. This section manages all available filter types. Click the Add button at the top right to begin creating a new filter then select Category. Fill Out Category Details and save . Category Name: Enter your category title — like Workshop, Art, Music, Business. Category Details: Add a brief description to help your team or collaborators understand the purpose of the category . | Example: “Use this category for all marketing-related training events.” | . The newly created Category filter will now be available as an option when creating or editing any event. ",
-    "url": "/pages/getting-started/filters/categoryfilter/#add-category-filter",
+    "url": "/servvai-docs/pages/getting-started/filters/categoryfilter/#add-category-filter",
     
     "relUrl": "/pages/getting-started/filters/categoryfilter/#add-category-filter"
   },"29": {
     "doc": "Categories Filter",
     "title": "Related Links",
     "content": "Create Event - https://support.servv.ai/getting-started/event/createevent/ . Edit Event - https://support.servv.ai/getting-started/event/edit/ . Create Location Filter - https://support.servv.ai/getting-started/filter/locationfilter/ . Create Member Filter - https://support.servv.ai/getting-started/filter/memberfilter/ . Create Language Filter -https://support.servv.ai/getting-started/filter/languagefilter/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/filters/categoryfilter/#related-links",
+    "url": "/servvai-docs/pages/getting-started/filters/categoryfilter/#related-links",
     
     "relUrl": "/pages/getting-started/filters/categoryfilter/#related-links"
   },"30": {
     "doc": "Categories Filter",
     "title": "Categories Filter",
     "content": " ",
-    "url": "/pages/getting-started/filters/categoryfilter/",
+    "url": "/servvai-docs/pages/getting-started/filters/categoryfilter/",
     
     "relUrl": "/pages/getting-started/filters/categoryfilter/"
   },"31": {
     "doc": "Latest Release",
     "title": "Latest Release",
     "content": " ",
-    "url": "/changelogs/chnagelogs/",
+    "url": "/servvai-docs/changelogs/chnagelogs/",
     
     "relUrl": "/changelogs/chnagelogs/"
   },"32": {
     "doc": "Create Events",
     "title": "Create Event",
     "content": "Install the Servv AI Plugin . | Navigate to Plugins &gt; Add New in the WordPress sidebar. | Search for “Servv AI” in the plugin search bar. | Click Install Now on the Servv AI plugin. | Once installed, click Activate to enable the plugin. | . Access the Servv AI Plugin . | Click Servv AI Event Booking to open the Servv AI interface within your WordPress dashboard. | . Navigate to the Events Section . | In the Servv AI interface, Open the Events section in the sidebar. | Click New Event to open the event creation form. | . Fill Out the Event Form . In the event creation form, provide the following details: . | Event Title: Enter a descriptive title for your event (e.g., “Yoga Workshop 2025”). | Date and Start &amp; End Time: . | Select the event date using the provided date picker. | Specify the start and end times for the event using the time picker fields. | Choose the appropriate timezone for the event to ensure accurate scheduling for attendees. | . | Recurrence Type: . | Select whether the event is One-time or Recurring. | For recurring events, specify the recurrence pattern (e.g., daily, weekly, monthly). | . | . Learn more about Recurring Types → . | Venue &amp; Access: In this section, you can choose how attendees will join your event. There are two main options: . | In-Person . | Add venue details such as the physical address. | Optionally include parking or venue access details, directions, or a link to a map for attendees. | . | . | . | Online or Hybrid . | Meeting URL: Simply paste the meeting link (e.g., Google Meet, Microsoft Teams, Zoom). | . | Zoom API Integration: Servv AI can automatically create and send a Zoom link for your event using Zoom API integration. Select the Zoom account from the dropdown menu for automatic link generation. | . | Create New Ticket: Add one or more ticket types (e.g., Free, Paid, Donation). For each ticket type, configure: . | Ticket Name: E.g., “General Admission,” “VIP,” or “Donation.” | Quantity: Specify the number of available tickets. | Availability: . | Sale: Tickets are available for purchase immediately. | Sale Start/End: Set specific start and end dates for ticket sales if needed. | . | Click Create new ticket to include additional ticket types if required. | . | Click Save to store the event ticket details. | . Learn More about ticket → . Apply Filters . After saving, use the Filter options to refine event settings: . | Location: Filter events by specific locations (useful for multi-venue setups). | Language: Select the event language if applicable. | Member: Assign the event to specific members or organizers. | . Apply the desired filters to customize the event’s visibility or assignment. Additional notes . Add item to bring or other info for attendees. included in email notifications. Example: . | Title - Parking | Discription - Paid parking is available near the venue. We recommend using public transport or carpooling. | . Publish the Event . Review all event details to ensure accuracy. Click Publish to make the event live on your WordPress site. The event will now be visible to visitors, and attendees can register or purchase tickets based on your configuration. Servv AI supports automated email notifications and calendar integrations (e.g., Google Calendar) for attendees. ",
-    "url": "/pages/getting-started/events/createevent/#create-event",
+    "url": "/servvai-docs/pages/getting-started/events/createevent/#create-event",
     
     "relUrl": "/pages/getting-started/events/createevent/#create-event"
   },"33": {
     "doc": "Create Events",
     "title": "Related Links",
     "content": "Event Setting - https://support.servv.ai/getting-started/event/setting/ . Add member to event -https://support.servv.ai/getting-started/event/registrants/ . Create a Location Filter - https://support.servv.ai/getting-started/filter/locationfilter/ . Create a Language Filter - https://support.servv.ai/getting-started/filter/languagefilter/ . Create a Member Filter - https://support.servv.ai/getting-started/filter/memberfilter/ . Find your All Bookings - https://support.servv.ai/getting-started/booking/ . Notes . Zoom Integration: For virtual events, Servv AI automatically generates and sends Zoom links to registered attendees, streamlining the process. Performance: Servv AI is designed to be lightweight, ensuring it does not slow down your WordPress site. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/createevent/#related-links",
+    "url": "/servvai-docs/pages/getting-started/events/createevent/#related-links",
     
     "relUrl": "/pages/getting-started/events/createevent/#related-links"
   },"34": {
     "doc": "Create Events",
     "title": "Create Events",
     "content": " ",
-    "url": "/pages/getting-started/events/createevent/",
+    "url": "/servvai-docs/pages/getting-started/events/createevent/",
     
     "relUrl": "/pages/getting-started/events/createevent/"
   },"35": {
     "doc": "Delete Events",
     "title": "Delete Event",
     "content": "Select Events in Servv AI to access the Events section, where all events are presented in a table format. Identify the event to be deleted within the table. click the hamburger icon (three horizontal lines) to display a dropdown menu with the following options: . Delete Event: Removes both the main event and all associated recurring events, including past and future occurrences. Delete Occurrence: Removes only the selected recurring event occurrence, preserving the main event and other events. | Select View Occurrences from the dropdown menu. A list of all recurring event occurrences will appear. | Locate the specific occurrence you want to delete and click the hamburger icon next to it. | Choose Delete Occurrence from the dropdown menu. | . After clicking delete or delete occurrences please confirm your action . ",
-    "url": "/pages/getting-started/events/delete/#delete-event",
+    "url": "/servvai-docs/pages/getting-started/events/delete/#delete-event",
     
     "relUrl": "/pages/getting-started/events/delete/#delete-event"
   },"36": {
     "doc": "Delete Events",
     "title": "Related Links",
     "content": "How to Edit Event- https://support.servv.ai/getting-started/event/edit/ . How to Create Event- https://support.servv.ai/getting-started/event/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/delete/#related-links",
+    "url": "/servvai-docs/pages/getting-started/events/delete/#related-links",
     
     "relUrl": "/pages/getting-started/events/delete/#related-links"
   },"37": {
     "doc": "Delete Events",
     "title": "Delete Events",
     "content": " ",
-    "url": "/pages/getting-started/events/delete/",
+    "url": "/servvai-docs/pages/getting-started/events/delete/",
     
     "relUrl": "/pages/getting-started/events/delete/"
   },"38": {
     "doc": "Edit Events",
     "title": "Edit Event",
     "content": "This guide explains how to edit events in Servv for WordPress, including both one-time and recurring events. Open the Events Section . Navigate to Servv &gt; Events from the dashboard menu. Select an Event to Edit . Click the hamburger icon (three horizontal lines) next to the event you want to edit in the Events list. Choose one of the following options: . | Edit Event: to modify the main event (suitable for one-time events or the core of a recurring series). | Edit Occurrences: to modify a specific instance of a recurring event. | . Edit a Main Event . After selecting Edit Event, the event editor will open. Update the desired fields, such as: . | Title | Date &amp; Time | Location (Physical or Virtual) | Event Description | Registration options (if enabled) | . Click Save to apply your changes. Updates will reflect immediately on the event page. Edit a Recurring Event Occurrence . After selecting Edit Occurrences, a list of all occurrences related to the recurring event will appear. | Click the hamburger icon next to the specific occurrence you want to edit.. | Select Edit to open the occurrence editor. | Update the desired fields, such as: . - Title - Date &amp; Time - Location (Physical or Virtual) - Event Description - Registration options (if enabled) . | . Click Save to apply your changes. Updates will reflect immediately for that specific occurrence. Related Links . Delete Event - https://support.servv.ai/getting-started/event/delete/ . Event Setting - https://support.servv.ai/getting-started/event/setting/ . Find your All Bookings - https://support.servv.ai/getting-started/booking/booking/ . Need Help? . If you encounter issues or need further assistance: . | Visit our FAQs | Submit a Support Request Form | Use the live chat feature directly from your Servv dashboard | . We’re here to assist you every step of the way! . ",
-    "url": "/pages/getting-started/events/edit/#edit-event",
+    "url": "/servvai-docs/pages/getting-started/events/edit/#edit-event",
     
     "relUrl": "/pages/getting-started/events/edit/#edit-event"
   },"39": {
     "doc": "Edit Events",
     "title": "Edit Events",
     "content": " ",
-    "url": "/pages/getting-started/events/edit/",
+    "url": "/servvai-docs/pages/getting-started/events/edit/",
     
     "relUrl": "/pages/getting-started/events/edit/"
   },"40": {
     "doc": "Email Integration",
     "title": "Email Integration Guide",
     "content": "This document provides detailed instructions for integrating your email service with your Servv AI account to enable seamless communication for event notifications, confirmations, and reminders. This guide is designed for clarity and ease of use, ensuring a smooth setup process. It assumes familiarity with web-based platforms and basic navigation within a user interface. Note: Ensure you have the necessary permissions to access the Integration section in Servv AI and valid credentials for the email service you plan to integrate (e.g., Gmail, Outlook, or a custom SMTP provider). Screenshots referenced in this guide are illustrative and may vary slightly based on platform updates. ",
-    "url": "/pages/getting-started/integrations/email/#email-integration-guide",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#email-integration-guide",
     
     "relUrl": "/pages/getting-started/integrations/email/#email-integration-guide"
   },"41": {
     "doc": "Email Integration",
     "title": "Prerequisites",
     "content": ". | Active Servv AI account with administrative or integration permissions. | A valid email account (Gmail, Outlook, or SMTP-based service). | SMTP server details (for custom email integration). | Stable internet connection and a supported browser (e.g., Chrome, Firefox, or Edge). | . ",
-    "url": "/pages/getting-started/integrations/email/#prerequisites",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#prerequisites",
     
     "relUrl": "/pages/getting-started/integrations/email/#prerequisites"
   },"42": {
     "doc": "Email Integration",
     "title": "Navigate to the Integration Section",
     "content": "Log in to your Servv AI account. Locate the side menu bar on the left-hand side of the interface. Click on the Integration option to access the integration dashboard. Reference: The Integration section is typically represented by a dedicated icon or label in the side menu. ",
-    "url": "/pages/getting-started/integrations/email/#navigate-to-the-integration-section",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#navigate-to-the-integration-section",
     
     "relUrl": "/pages/getting-started/integrations/email/#navigate-to-the-integration-section"
   },"43": {
     "doc": "Email Integration",
     "title": "Select Email Integration",
     "content": "In the integration dashboard, locate the Email option. This may be listed among other available integrations. Click on the Email tile or button to proceed to the email integration setup. ",
-    "url": "/pages/getting-started/integrations/email/#select-email-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#select-email-integration",
     
     "relUrl": "/pages/getting-started/integrations/email/#select-email-integration"
   },"44": {
     "doc": "Email Integration",
     "title": "Initiate the Connection",
     "content": "On the Email integration page, locate the Connect button. Click Connect to start the integration process. If you are integrating via: . | Gmail or Outlook – You will be redirected to the provider’s login page. | SMTP – You will be prompted to enter SMTP server details manually. | . ",
-    "url": "/pages/getting-started/integrations/email/#initiate-the-connection",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#initiate-the-connection",
     
     "relUrl": "/pages/getting-started/integrations/email/#initiate-the-connection"
   },"45": {
     "doc": "Email Integration",
     "title": "Provide Your Email Credentials",
     "content": "If using Gmail or Outlook, enter the credentials for the email account you wish to connect. Click Continue to proceed. Important: Ensure the email credentials are correct. For SMTP, confirm with your email provider that you have the correct host, port, and security settings. Incorrect details will result in connection errors. ",
-    "url": "/pages/getting-started/integrations/email/#provide-your-email-credentials",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#provide-your-email-credentials",
     
     "relUrl": "/pages/getting-started/integrations/email/#provide-your-email-credentials"
   },"46": {
     "doc": "Email Integration",
     "title": "Review and Authorize Permissions",
     "content": "For Gmail or Outlook integrations, a permissions screen will display, outlining the access Servv AI requires (e.g., sending emails, reading certain metadata for tracking delivery status). Review the permissions carefully to ensure you understand the scope of access. Click Continue to authorize the integration. ",
-    "url": "/pages/getting-started/integrations/email/#review-and-authorize-permissions",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#review-and-authorize-permissions",
     
     "relUrl": "/pages/getting-started/integrations/email/#review-and-authorize-permissions"
   },"47": {
     "doc": "Email Integration",
     "title": "Verify Connection Status",
     "content": "Upon successful authorization or SMTP configuration, you will be redirected to the integration dashboard. Confirm that the Email integration status displays as Connected. Tip: If the status does not show as Connected, verify your credentials, internet connection, and permissions, then repeat the setup process. Contact Servv.ai support if issues persist. ",
-    "url": "/pages/getting-started/integrations/email/#verify-connection-status",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#verify-connection-status",
     
     "relUrl": "/pages/getting-started/integrations/email/#verify-connection-status"
   },"48": {
     "doc": "Email Integration",
     "title": "Post-Integration Notes",
     "content": ". | Send Test Email: Use the “Send Test Email” button in the integration dashboard to confirm that messages are being sent successfully. | Email Templates: Customize your event confirmation, reminder, and follow-up email templates in the Notification Settings section. | Troubleshooting: If emails are not being delivered, check your spam folder, verify SMTP settings, or ensure that API access is enabled for Gmail/Outlook accounts. | . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/integrations/email/#post-integration-notes",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/#post-integration-notes",
     
     "relUrl": "/pages/getting-started/integrations/email/#post-integration-notes"
   },"49": {
     "doc": "Email Integration",
     "title": "Email Integration",
     "content": " ",
-    "url": "/pages/getting-started/integrations/email/",
+    "url": "/servvai-docs/pages/getting-started/integrations/email/",
     
     "relUrl": "/pages/getting-started/integrations/email/"
   },"50": {
     "doc": "Events",
     "title": "Event Management Overview",
     "content": "Welcome to the Servv AI Event Management guide. This page provides a high-level summary of all core event functionalities supported by the Servv AI plugin for WordPress. Whether you’re new or experienced, these sections will help you create and manage events efficiently. ",
-    "url": "/pages/getting-started/events/events/#event-management-overview",
+    "url": "/servvai-docs/pages/getting-started/events/events/#event-management-overview",
     
     "relUrl": "/pages/getting-started/events/events/#event-management-overview"
   },"51": {
     "doc": "Events",
     "title": "Create an Event",
     "content": "Get started by creating your first event in just a few clicks. With Servv AI, you can configure: . | Event title, date, and time with timezone | Event type (single, recurring) and location (in-person, virtual or hybrid) | Speaker/session details | Ticketing options (paid, free or donation) | . Learn more → . This is your first step to getting your event live. ",
-    "url": "/pages/getting-started/events/events/#create-an-event",
+    "url": "/servvai-docs/pages/getting-started/events/events/#create-an-event",
     
     "relUrl": "/pages/getting-started/events/events/#create-an-event"
   },"52": {
     "doc": "Events",
     "title": "View Your Event",
     "content": "Once your event is created, learn how to: . | Preview the event as users would see it | Access all published and draft events in one place | Use filters and search to manage large event inventories | . Learn more → . Easily find and check the status of your events. ",
-    "url": "/pages/getting-started/events/events/#view-your-event",
+    "url": "/servvai-docs/pages/getting-started/events/events/#view-your-event",
     
     "relUrl": "/pages/getting-started/events/events/#view-your-event"
   },"53": {
     "doc": "Events",
     "title": "Configure Event Settings",
     "content": "Customize the core settings to align your event with your brand and audience needs: . | Enable/disable RSVP, ticket sales, reminders | Customize confirmation emails | Set registration limits, buffer times, and access controls | . Learn more → . Fine-tune your event’s behavior and automation settings. ",
-    "url": "/pages/getting-started/events/events/#configure-event-settings",
+    "url": "/servvai-docs/pages/getting-started/events/events/#configure-event-settings",
     
     "relUrl": "/pages/getting-started/events/events/#configure-event-settings"
   },"54": {
     "doc": "Events",
     "title": "Edit an Existing Event",
     "content": "Update or revise any aspect of your event with ease: . | Modify the schedule, content, speakers, or pricing | Update venue or access links | Make changes visible instantly or save as draft | . Learn more → . Keep your event information current and accurate. ",
-    "url": "/pages/getting-started/events/events/#edit-an-existing-event",
+    "url": "/servvai-docs/pages/getting-started/events/events/#edit-an-existing-event",
     
     "relUrl": "/pages/getting-started/events/events/#edit-an-existing-event"
   },"55": {
     "doc": "Events",
     "title": "Delete an Event",
     "content": "When an event is no longer needed: . | Delete it permanently from your WordPress site | Understand implications for users and past registrations | Follow best practices to avoid accidental deletions | . Learn more → . Clean up your event list by removing outdated or test events. For more, visit the full Servv AI Documentation Portal. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/events/#delete-an-event",
+    "url": "/servvai-docs/pages/getting-started/events/events/#delete-an-event",
     
     "relUrl": "/pages/getting-started/events/events/#delete-an-event"
   },"56": {
     "doc": "Events",
     "title": "Events",
     "content": " ",
-    "url": "/pages/getting-started/events/events/",
+    "url": "/servvai-docs/pages/getting-started/events/events/",
     
     "relUrl": "/pages/getting-started/events/events/"
   },"57": {
     "doc": "Events Settings",
     "title": "Configure Event Settings",
     "content": "Accessing Event Settings . !!! info “⚡ Premium Feature” This feature is available only on Premium plans. | Navigate to the Events section in your Servv AI. | To create a new event, click New Event. To edit an existing event, select the event from the list. | During event creation or editing, locate the Event Settings section. | . From here, you can configure visibility and notification options efficiently without navigating complex menus. Visibility . | Public: The event is visible to everyone on your site. | Unlisted: The event is private and accessible only via a direct link. | . Notifications . | Calendar Notifications: Enable or disable calendar alerts for attendees. | Email Notifications: Enable or disable email reminders for attendees. | . Click Save when editing an existing event or Publish when creating a new event to apply your settings. ",
-    "url": "/pages/getting-started/events/eventsettings/#configure-event-settings",
+    "url": "/servvai-docs/pages/getting-started/events/eventsettings/#configure-event-settings",
     
     "relUrl": "/pages/getting-started/events/eventsettings/#configure-event-settings"
   },"58": {
     "doc": "Events Settings",
     "title": "Why It Matters",
     "content": "Proper configuration of event settings ensures your events are accessible to the intended audience with timely notifications. By utilizing visibility controls and notification options, you enhance the attendee experience, making it more professional and seamless. ",
-    "url": "/pages/getting-started/events/eventsettings/#why-it-matters",
+    "url": "/servvai-docs/pages/getting-started/events/eventsettings/#why-it-matters",
     
     "relUrl": "/pages/getting-started/events/eventsettings/#why-it-matters"
   },"59": {
     "doc": "Events Settings",
     "title": "Related Links",
     "content": "How to Create Event - https://support.servv.ai/getting-started/filter/locationfilter/ . Create a Language Filter - https://support.servv.ai/getting-started/filter/languagefilter/ . Create a Member Filter - https://support.servv.ai/getting-started/filter/memberfilter/ . Find your All Bookings - https://support.servv.ai/getting-started/booking/booking/ . Need Help? . If you encounter issues or need further assistance: . | Visit our FAQs | Submit a Support Request Form | Use the live chat feature directly from your Servv.ai WordPress dashboard | . We’re here to support you every step of the way. ",
-    "url": "/pages/getting-started/events/eventsettings/#related-links",
+    "url": "/servvai-docs/pages/getting-started/events/eventsettings/#related-links",
     
     "relUrl": "/pages/getting-started/events/eventsettings/#related-links"
   },"60": {
     "doc": "Events Settings",
     "title": "Events Settings",
     "content": " ",
-    "url": "/pages/getting-started/events/eventsettings/",
+    "url": "/servvai-docs/pages/getting-started/events/eventsettings/",
     
     "relUrl": "/pages/getting-started/events/eventsettings/"
   },"61": {
     "doc": "Filters",
     "title": "Event Filtering Overview",
     "content": "Servv AI’s advanced filtering system enables event organizers and users to streamline the event discovery experience through multiple filter types. These powerful yet simple filters help narrow down relevant events quickly, improving usability and user engagement across your website. Location Filter . The Location Filter allows users to search for events based on geographic location. This is ideal for both physical and hybrid events. You can: . | Add city or region-based filters. | Help users find nearby events easily. | Combine with other filters like category or language for precision. | . Learn more → . Use case: Show only events happening in “New York” or within a selected region. Language Filter . The Language Filter enables users to find events conducted in their preferred language. Especially useful for global audiences, it allows: . | Filtering events by selected spoken language. | Customization based on multilingual event setups. | . Learn more → . Use case: Display only events conducted in “English” or “French” . Member Filter . The Member Filter restricts or displays events based on specific users or organizers. Perfect for community-based platforms or membership-driven experiences. | Filter by event host, speaker, or member profile. | Highlight events from trusted or followed members. | . Learn more → . Use case: View events hosted by a specific team member or instructor. Category Filter . The Category Filter lets users browse events based on topics or classifications. Organize your event listings efficiently using categories like: . | Webinars | Workshops | Conferences | Product Launches | . Learn more → . Use case: Show only “Webinars” or “Tech Talks” from the event list. Benefits of Using Filters . | Enhanced user experience with quick access to relevant events. | Improved event discovery and participation. | Increased flexibility for administrators to control event visibility. | . Each filter can be used independently or combined for more powerful search capabilities. ",
-    "url": "/pages/getting-started/filters/filters/#event-filtering-overview",
+    "url": "/servvai-docs/pages/getting-started/filters/filters/#event-filtering-overview",
     
     "relUrl": "/pages/getting-started/filters/filters/#event-filtering-overview"
   },"62": {
     "doc": "Filters",
     "title": "Need Help?",
     "content": "If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/filters/filters/#need-help",
+    "url": "/servvai-docs/pages/getting-started/filters/filters/#need-help",
     
     "relUrl": "/pages/getting-started/filters/filters/#need-help"
   },"63": {
     "doc": "Filters",
     "title": "Filters",
     "content": " ",
-    "url": "/pages/getting-started/filters/filters/",
+    "url": "/servvai-docs/pages/getting-started/filters/filters/",
     
     "relUrl": "/pages/getting-started/filters/filters/"
   },"64": {
     "doc": "General",
     "title": "General Settings Configuration",
     "content": "This document provides step-by-step instructions for configuring the general settings in the Servv AI WordPress plugin. These settings establish default values that are automatically applied when creating new events, ensuring consistency and efficiency in event setup. Open General Settings . Click on Settings in servv ai menu in sidebar to open the settings dashboard. In the settings dashboard, click on the General tab to access the general settings configuration panel. ",
-    "url": "/pages/getting-started/settings/general/#general-settings-configuration",
+    "url": "/servvai-docs/pages/getting-started/settings/general/#general-settings-configuration",
     
     "relUrl": "/pages/getting-started/settings/general/#general-settings-configuration"
   },"65": {
     "doc": "General",
     "title": "Configuring General Settings",
     "content": "The General Settings panel allows you to set default values for various event parameters. Below is a detailed breakdown of each option: . Time Zone . | Purpose: Sets the default time zone for all events. | How to Configure: . | Click the dropdown menu labeled Time Zone. | Select the desired time zone (e.g., America/Los_Angeles). | . | Outcome: The selected time zone will be applied to all new events created in Servv AI. | . Time Format . | Purpose: Defines the default time format for event times displayed in emails, widgets, and the dashboard. | How to Configure: . | Choose between 12-hour (e.g., 2:00 PM) or 24-hour (e.g., 14:00) format by selecting the appropriate option. | Optionally, check the box labeled Hide timezone abbreviation in email, widget, and dashboard to exclude timezone abbreviations (e.g., PDT, EST) from display. | . | Outcome: The chosen format will be used across all event-related displays, with the option to hide timezone abbreviations for cleaner presentation. | . Currency Format . | Purpose: Specifies the default currency for event ticket pricing. | How to Configure: . | Click the dropdown menu labeled Currency Format. | Select the desired currency (e.g., USD, EUR). | . | Outcome: The selected currency will be applied to ticket prices for all new events. | . Duration . | Purpose: Sets the default duration for events. | How to Configure: . | Select the desired duration from the dropdown menu (e.g., 1h for 1 hour, 2h for 2 hours). | . | Outcome: New events will automatically adopt the specified duration unless manually overridden. | . Start / End Time . | Purpose: Defines the default start time for events, with the end time calculated based on the default duration. | How to Configure: . | Select the desired Start Time from the provided options. | The End Time will be automatically calculated based on the selected start time and the default event duration set above. | . | Outcome: New events will use the specified start time, with the end time adjusted according to the default duration. | . Ticket Price . | Purpose: Sets the default ticket price for events. | How to Configure: Enter the desired ticket price in the provided field. | Outcome: The entered amount will be set as the default ticket price for all new events. | . Saving Changes . After configuring the desired settings, click the Save button at the top of the Settings panel. All configured settings will be saved and applied as default values when creating new events in Servv AI. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/settings/general/#configuring-general-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/general/#configuring-general-settings",
     
     "relUrl": "/pages/getting-started/settings/general/#configuring-general-settings"
   },"66": {
     "doc": "General",
     "title": "General",
     "content": " ",
-    "url": "/pages/getting-started/settings/general/",
+    "url": "/servvai-docs/pages/getting-started/settings/general/",
     
     "relUrl": "/pages/getting-started/settings/general/"
   },"67": {
     "doc": "Setup Your First Event",
     "title": "Setup Your First Event",
     "content": "This section covers everything you need to know to get started. ",
-    "url": "/pages/getting-started/getting-started/",
+    "url": "/servvai-docs/pages/getting-started/getting-started/",
     
     "relUrl": "/pages/getting-started/getting-started/"
   },"68": {
     "doc": "Home",
     "title": "Welcome to Servv Support",
     "content": "Welcome to Servv AI’s support documentation site, where customers can learn how to create and manage their events with the help of the Servv AI plugin in WordPress. Whether you’re a beginner or a seasoned user, you’ll find step-by-step tutorials, configuration tips, integration guides, and troubleshooting help. To learn more about Servv AI, visit servv.ai . ",
-    "url": "/#welcome-to-servv-support",
+    "url": "/servvai-docs/#welcome-to-servv-support",
     
     "relUrl": "/#welcome-to-servv-support"
   },"69": {
     "doc": "Home",
     "title": "What is Servv AI?",
     "content": "Servv AI is a comprehensive event booking and management platform designed to simplify your event workflows. Whether you’re hosting online or in-person events, Servv empowers you to sell, schedule, and manage with ease. ",
-    "url": "/#what-is-servv-ai",
+    "url": "/servvai-docs/#what-is-servv-ai",
     
     "relUrl": "/#what-is-servv-ai"
   },"70": {
     "doc": "Home",
     "title": "With Servv AI, You Can",
     "content": ". | Create and manage events directly from your WordPress dashboard. | Accept payments through Stripe. | Integrate with Zoom, Google Calendar, and email services. | Customize widgets and booking experiences. | Send automatic reminders and notifications. | . Servv brings together powerful automation and intuitive design to deliver a seamless experience for both administrators and attendees. Whether you’re running workshops, webinars, or consultations, Servv has the tools you need. ",
-    "url": "/#with-servv-ai-you-can",
+    "url": "/servvai-docs/#with-servv-ai-you-can",
     
     "relUrl": "/#with-servv-ai-you-can"
   },"71": {
     "doc": "Home",
     "title": "Getting Started",
     "content": "Ready to launch your first event? . Head over to our Setting up your first event where we walk you through: . ",
-    "url": "/#getting-started",
+    "url": "/servvai-docs/#getting-started",
     
     "relUrl": "/#getting-started"
   },"72": {
     "doc": "Home",
     "title": "Why Servv?",
     "content": "Servv brings together powerful automation and intuitive design to deliver a seamless experience for both administrators and attendees. Whether you’re running workshops, webinars, or consultations, Servv has the tools you need. | All-in-One Dashboard: No juggling between platforms — manage everything in one place. | Fast Setup: Go live in second, not minute. | Automation Built-In: Reduce manual work with email reminders, calendar syncing, and follow-ups. | . Our mission is to help you focus on delivering value while we handle the booking logistics. ",
-    "url": "/#why-servv",
+    "url": "/servvai-docs/#why-servv",
     
     "relUrl": "/#why-servv"
   },"73": {
     "doc": "Home",
     "title": "Documentation Sections",
     "content": "Here’s what you’ll find in this portal: . | Event Management Overview – A quick setup guide to launch your first event. | Add Filter : Learn how to create filters for location, language, category, and member type to easily assign them while setting up your event. | Location | Language | Member | Category | . | See all your Bookings- See all your boking and past booking. | Edit or manage event details – Learn to edit and manageq events. | Integrations – Connect with Email, Calendars ,Zoom and Stripe. | Email Integration | Zoom Integration | Calendar Integration | Stripe Integration | . | Email Templates- Learn how to customize notification emails sent to attendees and hosts for confirmations, reminders, cancellations, and other event updates. | Analytics – Track and measure the performance of your events with real-time analytics and insights. | Settings- Manage key configurations for your events including reminder emails, billing plans, fast checkout options, and widget customization. Tailor the event experience through flexible widget settings and multi-language translations. | General: Define default values for time, currency, duration, pricing, and event location to streamline event setup. | Reminder: Configure automated reminder emails to notify attendees before the event begins. | Billing Plans: Set up and manage different billing plans or pricing tiers for your events. | Widget: Customize the appearance and behavior of your event booking widgets. | Widget Translations: Translate widget text to multiple languages for a localized booking experience. | . | . Use the sidebar navigation or the search bar to find exactly what you need. ",
-    "url": "/#documentation-sections",
+    "url": "/servvai-docs/#documentation-sections",
     
     "relUrl": "/#documentation-sections"
   },"74": {
     "doc": "Home",
     "title": "Need Help?",
     "content": "If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. Thank you for choosing Servv AI. Let’s build smarter events, together. ",
-    "url": "/#need-help",
+    "url": "/servvai-docs/#need-help",
     
     "relUrl": "/#need-help"
   },"75": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
-    "url": "/",
+    "url": "/servvai-docs/",
     
     "relUrl": "/"
   },"76": {
     "doc": "Integrations",
     "title": "Servv AI Integrations Overview",
     "content": "Servv AI offers multiple integrations to help you connect your event management workflows with the tools you already use. This overview highlights the purpose and key benefits of each available integration. ",
-    "url": "/pages/getting-started/integrations/integrations/#servv-ai-integrations-overview",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#servv-ai-integrations-overview",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#servv-ai-integrations-overview"
   },"77": {
     "doc": "Integrations",
     "title": "Email Integration",
     "content": "Easily connect your preferred email service to send automated notifications, confirmations, and reminders for events. Supported providers include Gmail, Outlook, and others. Learn more → . Key Benefits . | Automated communication with participants. | Branded and personalized email templates. | Reliable delivery for important updates. | . ",
-    "url": "/pages/getting-started/integrations/integrations/#email-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#email-integration",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#email-integration"
   },"78": {
     "doc": "Integrations",
     "title": "Calendar Integration",
     "content": "Sync your Servv AI events with external calendars such as Google Calendar or Outlook. This ensures all team members and participants have up-to-date schedules without manual entry. Learn more → . Key Benefits . | Real-time event syncing. | Prevents scheduling conflicts. | Easy access from any connected device. | . ",
-    "url": "/pages/getting-started/integrations/integrations/#calendar-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#calendar-integration",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#calendar-integration"
   },"79": {
     "doc": "Integrations",
     "title": "Zoom Integration",
     "content": "Link your Zoom account to Servv AI for seamless virtual event hosting. Event links are automatically created and shared with participants. Learn more → . Key Benefits . | Instant Zoom meeting creation. | Automatic distribution of join links. | Simplified management of online sessions. | . ",
-    "url": "/pages/getting-started/integrations/integrations/#zoom-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#zoom-integration",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#zoom-integration"
   },"80": {
     "doc": "Integrations",
     "title": "Stripe Integration",
     "content": "Integrate Stripe to accept secure online payments for event registrations, tickets, or services directly through Servv AI. Learn more → . Key Benefits . | Fast, secure payment processing. | Support for multiple currencies. | Automatic payment tracking in Servv AI. | . ",
-    "url": "/pages/getting-started/integrations/integrations/#stripe-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#stripe-integration",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#stripe-integration"
   },"81": {
     "doc": "Integrations",
     "title": "Why Integrate?",
     "content": "By connecting these tools with Servv AI, you can: . | Save time by automating repetitive tasks. | Ensure accurate, up-to-date information across all platforms. | Improve attendee experience with smooth communication, scheduling, and payment flows. | . Need Help? . | Check our FAQs | Submit a Support Request Form | Chat with us directly from your Servv dashboard | . ",
-    "url": "/pages/getting-started/integrations/integrations/#why-integrate",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/#why-integrate",
     
     "relUrl": "/pages/getting-started/integrations/integrations/#why-integrate"
   },"82": {
     "doc": "Integrations",
     "title": "Integrations",
     "content": " ",
-    "url": "/pages/getting-started/integrations/integrations/",
+    "url": "/servvai-docs/pages/getting-started/integrations/integrations/",
     
     "relUrl": "/pages/getting-started/integrations/integrations/"
   },"83": {
     "doc": "Languages Filter",
     "title": "Add Language Filter",
     "content": "Access the Filter Dashboard . From your Servv AI side bar, go to Filters. This section manages all available filter types. Click the Add button at the top right to begin creating a new filter then select Language. Give Language Name – e.g., English, Spanish, French, etc and save . The newly created Language filter will now be available as an option when creating or editing any event. ",
-    "url": "/pages/getting-started/filters/languagefilter/#add-language-filter",
+    "url": "/servvai-docs/pages/getting-started/filters/languagefilter/#add-language-filter",
     
     "relUrl": "/pages/getting-started/filters/languagefilter/#add-language-filter"
   },"84": {
     "doc": "Languages Filter",
     "title": "Related Links",
     "content": "Create Event - https://support.servv.ai/getting-started/event/createevent/ . Edit Event - https://support.servv.ai/getting-started/event/edit/ . Create Location Filter - https://support.servv.ai/getting-started/filter/locationfilter/ . Create Member Filter - https://support.servv.ai/getting-started/filter/memberfilter/ . Create Category Filter -https://support.servv.ai/getting-started/filter/categoryfilter/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/filters/languagefilter/#related-links",
+    "url": "/servvai-docs/pages/getting-started/filters/languagefilter/#related-links",
     
     "relUrl": "/pages/getting-started/filters/languagefilter/#related-links"
   },"85": {
     "doc": "Languages Filter",
     "title": "Languages Filter",
     "content": " ",
-    "url": "/pages/getting-started/filters/languagefilter/",
+    "url": "/servvai-docs/pages/getting-started/filters/languagefilter/",
     
     "relUrl": "/pages/getting-started/filters/languagefilter/"
   },"86": {
     "doc": "Locations Filter",
     "title": "Add Location Filter",
     "content": "Access the Filter Dashboard . From your Servv AI side bar, go to Filters. This section manages all available filter types. Click the Add button at the top right to begin creating a new filter then select Location. Fill Out Location Details and save . Location Name – e.g., “New York City” or “London”. Location Details – Optional notes like venue name or address. Operational Hours – Define when the location is active or available. The newly created location filter will now be available as an option when creating or editing any event. ",
-    "url": "/pages/getting-started/filters/locationfilter/#add-location-filter",
+    "url": "/servvai-docs/pages/getting-started/filters/locationfilter/#add-location-filter",
     
     "relUrl": "/pages/getting-started/filters/locationfilter/#add-location-filter"
   },"87": {
     "doc": "Locations Filter",
     "title": "Related Links",
     "content": "Create Event - https://support.servv.ai/getting-started/event/createevent/ . Edit Event - https://support.servv.ai/getting-started/event/edit/ . Create Language Filter - https://support.servv.ai/getting-started/filter/languagefilter/ . Create Member Filter - https://support.servv.ai/getting-started/filter/memberfilter/ . Create Category Filter - https://support.servv.ai/getting-started/filter/categoryfilter/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/filters/locationfilter/#related-links",
+    "url": "/servvai-docs/pages/getting-started/filters/locationfilter/#related-links",
     
     "relUrl": "/pages/getting-started/filters/locationfilter/#related-links"
   },"88": {
     "doc": "Locations Filter",
     "title": "Locations Filter",
     "content": " ",
-    "url": "/pages/getting-started/filters/locationfilter/",
+    "url": "/servvai-docs/pages/getting-started/filters/locationfilter/",
     
     "relUrl": "/pages/getting-started/filters/locationfilter/"
   },"89": {
     "doc": "Members Filter",
     "title": "Add Member Filter",
     "content": "Access the Filter Dashboard . From your Servv AI side bar, go to Filters. This section manages all available filter types. Click the Add button at the top right to begin creating a new filter then select member. Fill Out Member Details and save . Complete the form by entering: . | Member Name – Enter the full name of the person you want to tag (e.g., Jane Smith). This is how the filter will appear when assigning members to events. | Member Email – Provide a valid email address for this person (e.g., jane.smith@example.com). This is helpful for identification or future communication. | Phone – Enter the member’s phone number. | Description (Optional) - Add a short note to describe the member’s role or relevance. Example: “Lead speaker for the 2025 Tech Conference” or “Event coordinator for workshops.” | . The newly created Member filter will now be available as an option when creating or editing any event. ",
-    "url": "/pages/getting-started/filters/memberfilter/#add-member-filter",
+    "url": "/servvai-docs/pages/getting-started/filters/memberfilter/#add-member-filter",
     
     "relUrl": "/pages/getting-started/filters/memberfilter/#add-member-filter"
   },"90": {
     "doc": "Members Filter",
     "title": "Related Links",
     "content": "Create Event - https://support.servv.ai/getting-started/event/createevent/ . Edit Event - https://support.servv.ai/getting-started/event/edit/ . Create Location Filter - https://support.servv.ai/getting-started/filter/locationfilter/ . Create Language Filter - https://support.servv.ai/getting-started/filter/languagefilter/ . Create Category Filter -https://support.servv.ai/getting-started/filter/categoryfilter/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/filters/memberfilter/#related-links",
+    "url": "/servvai-docs/pages/getting-started/filters/memberfilter/#related-links",
     
     "relUrl": "/pages/getting-started/filters/memberfilter/#related-links"
   },"91": {
     "doc": "Members Filter",
     "title": "Members Filter",
     "content": " ",
-    "url": "/pages/getting-started/filters/memberfilter/",
+    "url": "/servvai-docs/pages/getting-started/filters/memberfilter/",
     
     "relUrl": "/pages/getting-started/filters/memberfilter/"
   },"92": {
     "doc": "Notifications",
     "title": "Notifications",
     "content": " ",
-    "url": "/pages/getting-started/notification/notifications/",
+    "url": "/servvai-docs/pages/getting-started/notification/notifications/",
     
     "relUrl": "/pages/getting-started/notification/notifications/"
   },"93": {
     "doc": "Plugin Troubleshoot",
     "title": "Troubleshooting: ServvAI Event Booking Plugin",
     "content": "If you’re experiencing issues with the ServvAI Event Booking plugin on your WordPress site, follow these steps to diagnose and resolve common problems. ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#troubleshooting-servvai-event-booking-plugin",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#troubleshooting-servvai-event-booking-plugin",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#troubleshooting-servvai-event-booking-plugin"
   },"94": {
     "doc": "Plugin Troubleshoot",
     "title": "1. Check for Plugin Conflicts",
     "content": ". | Deactivate all other plugins temporarily to see if the issue persists. | If the problem resolves, reactivate plugins one by one to identify the conflicting plugin. | Common culprits include caching, security, or other event-related plugins. | . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#1-check-for-plugin-conflicts",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#1-check-for-plugin-conflicts",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#1-check-for-plugin-conflicts"
   },"95": {
     "doc": "Plugin Troubleshoot",
     "title": "2. Switch to a Default WordPress Theme",
     "content": ". | Temporarily switch your theme to a default WordPress theme (like Twenty Twenty-One) to rule out theme-related issues. | If the problem is resolved, your theme may be incompatible with the plugin. | . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#2-switch-to-a-default-wordpress-theme",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#2-switch-to-a-default-wordpress-theme",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#2-switch-to-a-default-wordpress-theme"
   },"96": {
     "doc": "Plugin Troubleshoot",
     "title": "3. Check Server Requirements",
     "content": "Ensure your server meets the following requirements: . | PHP Version: 7.4 or higher | WordPress Version: 5.0 or higher | Permalinks: Enabled and properly configured | .htaccess: Writable by WordPress | . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#3-check-server-requirements",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#3-check-server-requirements",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#3-check-server-requirements"
   },"97": {
     "doc": "Plugin Troubleshoot",
     "title": "4. Enable Debugging",
     "content": "Add the following lines to your wp-config.php file to enable debugging: . define( 'WP_DEBUG', true ); define( 'WP_DEBUG_LOG', true ); define( 'WP_DEBUG_DISPLAY', false ); . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#4-enable-debugging",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#4-enable-debugging",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#4-enable-debugging"
   },"98": {
     "doc": "Plugin Troubleshoot",
     "title": "5. Check for JavaScript Errors",
     "content": ". | Open your browser’s developer tools (usually by pressing F12) and go to the Console tab. | Look for any JavaScript errors that might be affecting the plugin’s functionality. | . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#5-check-for-javascript-errors",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#5-check-for-javascript-errors",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#5-check-for-javascript-errors"
   },"99": {
     "doc": "Plugin Troubleshoot",
     "title": "6. Review Server Logs",
     "content": ". | Check your server’s error logs for any messages related to the plugin. | This can provide insights into server-side issues affecting the plugin’s performance. | . ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#6-review-server-logs",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#6-review-server-logs",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#6-review-server-logs"
   },"100": {
     "doc": "Plugin Troubleshoot",
     "title": "7. Contact Support",
     "content": "If the issue persists after following these steps: . | Submit a Support Ticket: Visit the ServvAI Support Center to submit a detailed support ticket. | Provide Details: Include information such as: . | WordPress version | Plugin version | Steps to reproduce the issue | Any error messages received | Screenshots or screen recordings, if possible | . | . By following these steps, you can effectively troubleshoot and resolve common issues with the ServvAI Event Booking plugin on WordPress. ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/#7-contact-support",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/#7-contact-support",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/#7-contact-support"
   },"101": {
     "doc": "Plugin Troubleshoot",
     "title": "Plugin Troubleshoot",
     "content": " ",
-    "url": "/pages/troubleshoot/plugintroubleshoot/",
+    "url": "/servvai-docs/pages/troubleshoot/plugintroubleshoot/",
     
     "relUrl": "/pages/troubleshoot/plugintroubleshoot/"
   },"102": {
     "doc": "Create Recurring Events",
     "title": "Configuring Recurring Events",
     "content": "!!! info “⚡ Premium Feature” This feature is available only on Premium plans. Recurring events allow you to automatically repeat an event on a daily, weekly, or monthly basis. ",
-    "url": "/pages/getting-started/events/recurring/#configuring-recurring-events",
+    "url": "/servvai-docs/pages/getting-started/events/recurring/#configuring-recurring-events",
     
     "relUrl": "/pages/getting-started/events/recurring/#configuring-recurring-events"
   },"103": {
     "doc": "Create Recurring Events",
     "title": "Daily Recurrence",
     "content": "The Daily Recurrence option allows you to repeat an event every set number of days. Enable Recurrence . | Go to your event creation or editing page. | Locate the Recurrence section. | Click the Recurring option to enable recurrence settings. | . Select Daily Recurrence . | From the recurrence type options (Daily, Weekly, Monthly), select Daily. | . Set Repeat Interval . | You will see the option Repeat every. | Use the dropdown menu to select how many days apart the event should repeat. | Example: . | Select 1 → Event repeats every day. | Select 2 → Event repeats every 2 days. | Select 3 → Event repeats every 3 days, and so on. | . | . | . Choose an End Condition . You must decide when the recurrence should stop. Two options are available: . | End by date . | Select the End date by option. | A date picker will appear. | Choose a specific date when the event should stop repeating. | Example: If today is 1st January and you select 10th January, the event will repeat daily until 10th January. | . | End after number of occurrences . | Select the End date after option. | A dropdown menu will appear with numeric values (1, 2, 3 …). | Choose the number of times the event should repeat. | Example: If you select 3, the event will occur 3 times and then stop automatically. | . | . Example Scenarios . | Example 1 . | Repeat every: 1 day | End after: 5 occurrences | Result → Event will run for 5 days in a row and then end. | . | Example 2 . | Repeat every: 2 days | End date by: 31st March | Result → Event will run every alternate day until 31st March. | . | . Key Notes . | Daily recurrence is best for events that happen regularly each day or every few days. | Always set an end condition (date or number of occurrences) to avoid unintended endless recurrence. | . ",
-    "url": "/pages/getting-started/events/recurring/#daily-recurrence",
+    "url": "/servvai-docs/pages/getting-started/events/recurring/#daily-recurrence",
     
     "relUrl": "/pages/getting-started/events/recurring/#daily-recurrence"
   },"104": {
     "doc": "Create Recurring Events",
     "title": "Weekly Recurrence",
     "content": "The Weekly Recurrence option allows you to repeat an event every set number of weeks and on specific weekdays. Enable Recurrence . | Go to your event creation or editing page. | Locate the Recurrence section. | Click the Recurring option to enable recurrence settings. | . Select Weekly Recurrence . | From the recurrence type options (Daily, Weekly, Monthly), select Weekly. | . Set Repeat Interval . | You will see the option Repeat every. | Use the dropdown menu to select how many weeks apart the event should repeat. | Example: . | Select 1 week → Event repeats every week. | Select 2 weeks → Event repeats every 2 weeks. | Select 3 weeks → Event repeats every 3 weeks, and so on. | . | . | . Choose Weekdays . | In the Occurs on section, select the checkboxes for the weekdays when the event should happen. | Example: Select Monday, Wednesday, Friday → Event will occur on those three days each week. | . Choose an End Condition . You must decide when the recurrence should stop. Options are the same as daily recurrence: . | End by date → Pick a calendar date when the repetition stops. | End after number of occurrences → Choose how many times the event should repeat before ending. | . Example Scenarios . | Example 1 . | Repeat every: 1 week | Occurs on: Monday, Wednesday | End after: 4 occurrences | Result → Event will occur 4 times (on Mondays and Wednesdays) before ending. | . | Example 2 . | Repeat every: 2 weeks | Occurs on: Friday | End date by: 30th April | Result → Event will occur every alternate Friday until 30th April. | . | . Key Notes . | Weekly recurrence is ideal for events that happen on fixed weekdays. | You can select multiple weekdays in the same week. | . ",
-    "url": "/pages/getting-started/events/recurring/#weekly-recurrence",
+    "url": "/servvai-docs/pages/getting-started/events/recurring/#weekly-recurrence",
     
     "relUrl": "/pages/getting-started/events/recurring/#weekly-recurrence"
   },"105": {
     "doc": "Create Recurring Events",
     "title": "Monthly Recurrence",
     "content": "The Monthly Recurrence option allows you to repeat an event every set number of months. You can choose either a specific date of the month or a pattern like “first Monday.” . Enable Recurrence . | Go to your event creation or editing page. | Locate the Recurrence section. | Click the Recurring option to enable recurrence settings. | . Select Monthly Recurrence . | From the recurrence type options (Daily, Weekly, Monthly), select Monthly. | . Set Repeat Interval . | You will see the option Repeat every. | Use the dropdown menu to select how many months apart the event should repeat. | Example: . | Select 1 month → Event repeats every month. | Select 2 months → Event repeats every 2 months. | Select 3 months → Event repeats every 3 months, and so on. | . | . | . Choose a Monthly Pattern . Two options are available: . | Occurs on a specific day of the month . | Select a date (1, 2, 3 … up to 31). | Example: Choosing 15 → Event occurs on the 15th of each month. | . | . | Occurs on a specific day of the week . | Two dropdowns appear: . | First dropdown: Select First, Second, Third, or Fourth. | Second dropdown: Select a day of the week (Sunday, Monday, etc.). | . | Example: Select First Monday → Event occurs on the first Monday of each month. | . | . Choose an End Condition . | End by date → Select a calendar date when the event should stop repeating. | End after number of occurrences → Choose how many times the event should repeat before ending. | . Example Scenarios . | Example 1 . | Repeat every: 1 month | Occurs on: Day 10 of each month | End after: 6 occurrences | Result → Event will occur on the 10th of each month, six times total. | . | Example 2 . | Repeat every: 2 months | Occurs on: Second Friday | End date by: 31st December | Result → Event will occur on the second Friday every 2 months until 31st December. | . | . Key Notes . | Monthly recurrence is useful for billing cycles, monthly meetings, or reminders. | You can choose either a fixed date or a weekday pattern. | . Need Help? . If you encounter issues or need further assistance: . | Visit our FAQs | Submit a Support Request Form | Use the live chat feature directly from your Servv.ai WordPress dashboard | . We’re here to support you every step of the way. ",
-    "url": "/pages/getting-started/events/recurring/#monthly-recurrence",
+    "url": "/servvai-docs/pages/getting-started/events/recurring/#monthly-recurrence",
     
     "relUrl": "/pages/getting-started/events/recurring/#monthly-recurrence"
   },"106": {
     "doc": "Create Recurring Events",
     "title": "Create Recurring Events",
     "content": " ",
-    "url": "/pages/getting-started/events/recurring/",
+    "url": "/servvai-docs/pages/getting-started/events/recurring/",
     
     "relUrl": "/pages/getting-started/events/recurring/"
   },"107": {
     "doc": "Add Registrants",
     "title": "How to Add a Registrant to the Event",
     "content": "Go to the Event section . Click on the hamburger icon beside the event in which you want to add a registrant. Select View Event from the menu. In the event details page, click on the Registrants section. Fill in the registrant details: . | First Name | Last Name | Email | . After filling all details click on Add Registrant to successfully add. Click on Save to add the registrant successfully. ",
-    "url": "/pages/getting-started/events/registrants/#how-to-add-a-registrant-to-the-event",
+    "url": "/servvai-docs/pages/getting-started/events/registrants/#how-to-add-a-registrant-to-the-event",
     
     "relUrl": "/pages/getting-started/events/registrants/#how-to-add-a-registrant-to-the-event"
   },"108": {
     "doc": "Add Registrants",
     "title": "View All Registrants",
     "content": ". | Once you are in the Registrants section of the event, scroll below the form. | A list of All Registrants for that event will be displayed. | Each registrant entry includes the details you have saved, such as: . | First Name | Last Name | Email | . | . ",
-    "url": "/pages/getting-started/events/registrants/#view-all-registrants",
+    "url": "/servvai-docs/pages/getting-started/events/registrants/#view-all-registrants",
     
     "relUrl": "/pages/getting-started/events/registrants/#view-all-registrants"
   },"109": {
     "doc": "Add Registrants",
     "title": "Remove Registrant",
     "content": "In the list Select registrant which you want to remove then click on save. ",
-    "url": "/pages/getting-started/events/registrants/#remove-registrant",
+    "url": "/servvai-docs/pages/getting-started/events/registrants/#remove-registrant",
     
     "relUrl": "/pages/getting-started/events/registrants/#remove-registrant"
   },"110": {
     "doc": "Add Registrants",
     "title": "Related Links",
     "content": "How to Create Event - https://support.servv.ai/getting-started/filter/locationfilter/ . How to Edit Event - https://support.servv.ai/getting-started/event/edit/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/registrants/#related-links",
+    "url": "/servvai-docs/pages/getting-started/events/registrants/#related-links",
     
     "relUrl": "/pages/getting-started/events/registrants/#related-links"
   },"111": {
     "doc": "Add Registrants",
     "title": "Add Registrants",
     "content": " ",
-    "url": "/pages/getting-started/events/registrants/",
+    "url": "/servvai-docs/pages/getting-started/events/registrants/",
     
     "relUrl": "/pages/getting-started/events/registrants/"
   },"112": {
     "doc": "Release Notes",
     "title": "v1.0.9",
     "content": "1.0.9 (2025-10-16) . Maintenance Release . | Update version and stable tag to 1.0.9 5bfcc56 | UI bug fix for widget 1860a0b | Fixed pipelines for release and sync 345ded8 | Updated Pipelines 6d9c4ca | Update CHANGELOG for version 1.0.8 462922c | Update stable tag to version 1.0.8 47db44b | . ",
-    "url": "/changelogs/releasenotes/#v109",
+    "url": "/servvai-docs/changelogs/releasenotes/#v109",
     
     "relUrl": "/changelogs/releasenotes/#v109"
   },"113": {
     "doc": "Release Notes",
     "title": "v1.0.8",
     "content": "1.0.8 (2025-10-15) . Maintenance Release . | Shortcode configuration for filters | UIUX improvements and bug fixes | . ",
-    "url": "/changelogs/releasenotes/#v108",
+    "url": "/servvai-docs/changelogs/releasenotes/#v108",
     
     "relUrl": "/changelogs/releasenotes/#v108"
   },"114": {
     "doc": "Release Notes",
     "title": "v1.0.7",
     "content": "1.0.7 (2025-10-03) . Hotfix Release . | Update version to 1.0.7 309ca3b | Timezone related bug fixes and UI improvements 338fc6d | . ",
-    "url": "/changelogs/releasenotes/#v107",
+    "url": "/servvai-docs/changelogs/releasenotes/#v107",
     
     "relUrl": "/changelogs/releasenotes/#v107"
   },"115": {
     "doc": "Release Notes",
     "title": "v1.0.5",
     "content": "1.0.5 (2025-10-02) . Hotfix Release . | Update version to 1.0.5 3421bc0 | Widget filter and size Text fixes 46856d2 | . ",
-    "url": "/changelogs/releasenotes/#v105",
+    "url": "/servvai-docs/changelogs/releasenotes/#v105",
     
     "relUrl": "/changelogs/releasenotes/#v105"
   },"116": {
     "doc": "Release Notes",
     "title": "v1.0.3",
     "content": "1.0.3 (2025-09-27) . Maintenance Release . | Improved layout and responsiveness across sections | Fixed event links, labels, and translations | Enhanced filters, payments, and overall stability | . ",
-    "url": "/changelogs/releasenotes/#v103",
+    "url": "/servvai-docs/changelogs/releasenotes/#v103",
     
     "relUrl": "/changelogs/releasenotes/#v103"
   },"117": {
     "doc": "Release Notes",
     "title": "v1.0.2",
     "content": "1.0.2 (2025-09-22) . Maintenance Release . | Resolved small bugs identified after v1.0.1 release | General code and documentation cleanup | . ",
-    "url": "/changelogs/releasenotes/#v102",
+    "url": "/servvai-docs/changelogs/releasenotes/#v102",
     
     "relUrl": "/changelogs/releasenotes/#v102"
   },"118": {
     "doc": "Release Notes",
     "title": "v1.0.1",
     "content": "1.0.1 (2025-09-20) . Maintenance Release . | Resolved small bugs identified after v1.0.0 release | General code and documentation cleanup | . ",
-    "url": "/changelogs/releasenotes/#v101",
+    "url": "/servvai-docs/changelogs/releasenotes/#v101",
     
     "relUrl": "/changelogs/releasenotes/#v101"
   },"119": {
     "doc": "Release Notes",
     "title": "v1.0.0",
     "content": "1.0.0 (2025-09-18) . Initial Release . | Added core functionality for event booking | Implemented AI functions and backend API integration with Google Calendar and Gmail | Added Stripe integration for secure payments | Integrated Zoom for hosting interactive online sessions | Added WordPress admin settings page for plugin configuration | Introduced event widget and shortcode support for flexible embedding | Included styling, templates, and assets for easy customization | Prepared plugin files for submission to WordPress.org | . ",
-    "url": "/changelogs/releasenotes/#v100",
+    "url": "/servvai-docs/changelogs/releasenotes/#v100",
     
     "relUrl": "/changelogs/releasenotes/#v100"
   },"120": {
     "doc": "Release Notes",
     "title": "Release Notes",
     "content": " ",
-    "url": "/changelogs/releasenotes/",
+    "url": "/servvai-docs/changelogs/releasenotes/",
     
     "relUrl": "/changelogs/releasenotes/"
   },"121": {
     "doc": "Reminder",
     "title": "Configuring Reminder",
     "content": "!!! info “⚡ Premium Feature” This Reminder feature is available only on Premium plans. Open General Settings . Click on Settings in servv ai menu in sidebar to open the settings dashboard. In the settings dashboard, click on the General tab to access the general settings configuration panel. ",
-    "url": "/pages/getting-started/settings/reminder/#configuring-reminder",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#configuring-reminder",
     
     "relUrl": "/pages/getting-started/settings/reminder/#configuring-reminder"
   },"122": {
     "doc": "Reminder",
     "title": "Enable Email Notifications",
     "content": "Turn It On: Switch the toggle to ON to allow email notifications for your events. This is the main setting that enables all email-based reminders. Note: If this is disabled, no email reminders (first, second, finished, or additional) will be sent. ",
-    "url": "/pages/getting-started/settings/reminder/#enable-email-notifications",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#enable-email-notifications",
     
     "relUrl": "/pages/getting-started/settings/reminder/#enable-email-notifications"
   },"123": {
     "doc": "Reminder",
     "title": "Set Up the First Reminder",
     "content": ". | Enable First Reminder toggle and switch it to ON. | Specify the Time: In the “Time to First Reminder” field, enter the number of hours before the event when you want the first reminder email sent. Example: 24 hours, meaning the reminder will be sent one day before the event. | . ",
-    "url": "/pages/getting-started/settings/reminder/#set-up-the-first-reminder",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#set-up-the-first-reminder",
     
     "relUrl": "/pages/getting-started/settings/reminder/#set-up-the-first-reminder"
   },"124": {
     "doc": "Reminder",
     "title": "Set Up the Second Reminder",
     "content": ". | Enable Second Reminder toggle and switch it to ON. | Specify the Time: In the “Time to Second Reminder” field, enter the number of hours before the event for the second reminder email. Example: 2 hours, meaning the reminder will be sent two hours before the event starts. | . ",
-    "url": "/pages/getting-started/settings/reminder/#set-up-the-second-reminder",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#set-up-the-second-reminder",
     
     "relUrl": "/pages/getting-started/settings/reminder/#set-up-the-second-reminder"
   },"125": {
     "doc": "Reminder",
     "title": "Configure the Finished Reminder",
     "content": ". | Enable the Finished Reminder | Purpose: This sends an email notification after the event concludes, useful for follow-ups or confirming the event is complete. Note: No time setting is required, as this email is triggered automatically after the event ends. | . ",
-    "url": "/pages/getting-started/settings/reminder/#configure-the-finished-reminder",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#configure-the-finished-reminder",
     
     "relUrl": "/pages/getting-started/settings/reminder/#configure-the-finished-reminder"
   },"126": {
     "doc": "Reminder",
     "title": "Customize Additional Email Notification Settings",
     "content": "Add Extra Reminder Emails: . | In the Additional Reminder Emails List field, enter a comma-separated list of email addresses (e.g., john@example.com,jane@example.com) to receive extra reminder emails. | These emails are sent in addition to the standard reminders. | . Set Additional Reminder Time: In the “Additional Reminder Hours” field, specify the number of hours before the event for these extra reminders. Example: The default is 2 hours, meaning additional reminders are sent two hours before the event. Adjust this based on your needs (e.g., 6 for six hours before). Skip Staff Email Notifications: Find the Skip Staff Email Notification toggle and switch it to ON if you want to exclude staff members from receiving any of the configured email notifications. Use Case: Enable this if staff don’t need reminders (e.g., they’re already informed via other channels). Saving Changes . After configuring the desired settings, click the Save button at the top of the Settings panel. Outcome: All configured settings will be saved and applied as default values when creating new events in Servv AI. ",
-    "url": "/pages/getting-started/settings/reminder/#customize-additional-email-notification-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#customize-additional-email-notification-settings",
     
     "relUrl": "/pages/getting-started/settings/reminder/#customize-additional-email-notification-settings"
   },"127": {
     "doc": "Reminder",
     "title": "Tips for Success",
     "content": ". | Test Your Settings: After configuring, schedule a test event to ensure emails are sent at the correct times and to the right recipients. | Coordinate Timing: Space out the first, second, and additional reminders to avoid overwhelming recipients (e.g., 24 hours, 2 hours, and 6 hours for additional reminders). | Check Email Addresses: Double-check the comma-separated list for typos to ensure additional reminders reach the intended recipients. | Use Skip Staff Option Wisely: Only enable “Skip Staff Email Notification” if staff are managed separately to avoid confusion. | . By following these instructions, you’ll have a fully customized reminder system that keeps everyone informed before and after events. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/settings/reminder/#tips-for-success",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/#tips-for-success",
     
     "relUrl": "/pages/getting-started/settings/reminder/#tips-for-success"
   },"128": {
     "doc": "Reminder",
     "title": "Reminder",
     "content": " ",
-    "url": "/pages/getting-started/settings/reminder/",
+    "url": "/servvai-docs/pages/getting-started/settings/reminder/",
     
     "relUrl": "/pages/getting-started/settings/reminder/"
   },"129": {
     "doc": "Settings",
     "title": "Servv AI Settings Overview",
     "content": "The Settings section in Servv AI gives you full control over how your events are configured, displayed, and managed across your WordPress site. From setting global defaults to customizing booking flows and localization, these settings ensure a flexible and user-friendly experience for both organizers and attendees. Explore the following key areas to tailor your event experience. ",
-    "url": "/pages/getting-started/settings/settings/#servv-ai-settings-overview",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#servv-ai-settings-overview",
     
     "relUrl": "/pages/getting-started/settings/settings/#servv-ai-settings-overview"
   },"130": {
     "doc": "Settings",
     "title": "General Settings",
     "content": "Set global defaults for your events to reduce repetitive setup and maintain consistency. Define: . | Default time zone and event duration | Currency and pricing defaults | Default event location | . Learn more → . This is your starting point for streamlined event creation. ",
-    "url": "/pages/getting-started/settings/settings/#general-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#general-settings",
     
     "relUrl": "/pages/getting-started/settings/settings/#general-settings"
   },"131": {
     "doc": "Settings",
     "title": "Reminder Settings",
     "content": "Ensure your attendees never miss an event. Set up automated email reminders to: . | Notify attendees hours or days in advance | Customize timing and content of reminders | Improve attendance rates with timely nudges | . Learn more → . ",
-    "url": "/pages/getting-started/settings/settings/#reminder-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#reminder-settings",
     
     "relUrl": "/pages/getting-started/settings/settings/#reminder-settings"
   },"132": {
     "doc": "Settings",
     "title": "Billing Plans",
     "content": "Monetize your events with structured pricing. You can: . | Create multiple pricing tiers (e.g., Basic, Premium) | Assign plans to different events or organizers | Manage payment settings for a seamless checkout | . Learn more → . ",
-    "url": "/pages/getting-started/settings/settings/#billing-plans",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#billing-plans",
     
     "relUrl": "/pages/getting-started/settings/settings/#billing-plans"
   },"133": {
     "doc": "Settings",
     "title": "Fast Checkout",
     "content": "Simplify the user journey with a quick booking flow. This feature lets you: . | Enable fast booking from any device | Customize checkout fields and labels | Improve conversion rates for paid events | . Learn more → . ",
-    "url": "/pages/getting-started/settings/settings/#fast-checkout",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#fast-checkout",
     
     "relUrl": "/pages/getting-started/settings/settings/#fast-checkout"
   },"134": {
     "doc": "Settings",
     "title": "Widget Settings",
     "content": "Control the look and behavior of embedded booking widgets. Easily: . | Adjust layout and style to match your brand | Choose display types: calendar, list, or pop-up | Configure behavior for specific pages | . Learn more → . ",
-    "url": "/pages/getting-started/settings/settings/#widget-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#widget-settings",
     
     "relUrl": "/pages/getting-started/settings/settings/#widget-settings"
   },"135": {
     "doc": "Settings",
     "title": "Widget Translations",
     "content": "Localize your booking experience for a global audience. With this setting, you can: . | Translate widget labels and messages | Provide a multi-language experience | Boost usability across international users | . Learn more → . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/settings/settings/#widget-translations",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/#widget-translations",
     
     "relUrl": "/pages/getting-started/settings/settings/#widget-translations"
   },"136": {
     "doc": "Settings",
     "title": "Settings",
     "content": " ",
-    "url": "/pages/getting-started/settings/settings/",
+    "url": "/servvai-docs/pages/getting-started/settings/settings/",
     
     "relUrl": "/pages/getting-started/settings/settings/"
   },"137": {
     "doc": "Stripe Integration",
     "title": "Stripe Integration Guide",
     "content": "!!! info “⚡ Premium Feature” The Stripe integration feature is available only on Premium plans. This document provides detailed instructions for integrating Stripe with your Servv AI account to enable secure and seamless payment processing for your events. This guide is designed for clarity and ease of use, ensuring a smooth setup process. It assumes familiarity with web-based platforms and basic navigation within a user interface. Note: Ensure you have administrative access to your Stripe account and access to the Integration section in Servv AI. Screenshots referenced in this guide are illustrative and may vary slightly based on platform updates. ",
-    "url": "/pages/getting-started/integrations/stripe/#stripe-integration-guide",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#stripe-integration-guide",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#stripe-integration-guide"
   },"138": {
     "doc": "Stripe Integration",
     "title": "Prerequisites",
     "content": ". | Active Servv AI account with administrative or integration permissions. | Stripe account with verified business or individual setup. | Stable internet connection and a supported browser (e.g., Chrome, Firefox, or Edge). | . ",
-    "url": "/pages/getting-started/integrations/stripe/#prerequisites",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#prerequisites",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#prerequisites"
   },"139": {
     "doc": "Stripe Integration",
     "title": "Navigate to the Integration Section",
     "content": "Log in to your Servv AI account. Locate the side menu bar on the left-hand side of the interface. Click on the Integration option to access the integration dashboard. ",
-    "url": "/pages/getting-started/integrations/stripe/#navigate-to-the-integration-section",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#navigate-to-the-integration-section",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#navigate-to-the-integration-section"
   },"140": {
     "doc": "Stripe Integration",
     "title": "Select Stripe Integration",
     "content": "In the integration dashboard, locate the Stripe option. Click on the Stripe tile or button to proceed with the Stripe integration setup. ",
-    "url": "/pages/getting-started/integrations/stripe/#select-stripe-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#select-stripe-integration",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#select-stripe-integration"
   },"141": {
     "doc": "Stripe Integration",
     "title": "Initiate the Connection",
     "content": "On the Stripe integration page, click the Connect button. You will be redirected to Stripe’s secure login page. ",
-    "url": "/pages/getting-started/integrations/stripe/#initiate-the-connection",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#initiate-the-connection",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#initiate-the-connection"
   },"142": {
     "doc": "Stripe Integration",
     "title": "click the Add new account button.",
     "content": "You will be redirected to Stripe’s secure login page. ",
-    "url": "/pages/getting-started/integrations/stripe/#click-the-add-new-account-button",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#click-the-add-new-account-button",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#click-the-add-new-account-button"
   },"143": {
     "doc": "Stripe Integration",
     "title": "Sign in to Stripe",
     "content": "Enter your Stripe account credentials (email and password). Click Sign In to proceed. If you do not have a Stripe account, follow the on-screen instructions to create one. ",
-    "url": "/pages/getting-started/integrations/stripe/#sign-in-to-stripe",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#sign-in-to-stripe",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#sign-in-to-stripe"
   },"144": {
     "doc": "Stripe Integration",
     "title": "Verify Login with Authenticator App",
     "content": "When connecting your plugin with Stripe, you may be asked to verify your account using two-factor authentication (2FA). Enter the 6-digit code shown for your Stripe account. ",
-    "url": "/pages/getting-started/integrations/stripe/#verify-login-with-authenticator-app",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#verify-login-with-authenticator-app",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#verify-login-with-authenticator-app"
   },"145": {
     "doc": "Stripe Integration",
     "title": "Enter your business location and Type",
     "content": ". ",
-    "url": "/pages/getting-started/integrations/stripe/#enter-your-business-location-and-type",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#enter-your-business-location-and-type",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#enter-your-business-location-and-type"
   },"146": {
     "doc": "Stripe Integration",
     "title": "Verify Personal Details",
     "content": ". ",
-    "url": "/pages/getting-started/integrations/stripe/#verify-personal-details",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#verify-personal-details",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#verify-personal-details"
   },"147": {
     "doc": "Stripe Integration",
     "title": "Add Business Details",
     "content": ". ",
-    "url": "/pages/getting-started/integrations/stripe/#add-business-details",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#add-business-details",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#add-business-details"
   },"148": {
     "doc": "Stripe Integration",
     "title": "Pick the Primary Product Type You Sell",
     "content": ". ",
-    "url": "/pages/getting-started/integrations/stripe/#pick-the-primary-product-type-you-sell",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#pick-the-primary-product-type-you-sell",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#pick-the-primary-product-type-you-sell"
   },"149": {
     "doc": "Stripe Integration",
     "title": "Review the Details carefully then click on Agree and submit",
     "content": ". ",
-    "url": "/pages/getting-started/integrations/stripe/#review-the-details-carefully-then-click-on-agree-and-submit",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#review-the-details-carefully-then-click-on-agree-and-submit",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#review-the-details-carefully-then-click-on-agree-and-submit"
   },"150": {
     "doc": "Stripe Integration",
     "title": "Verify Connection Status",
     "content": "Once authorized, you will be redirected to the integration dashboard. Confirm that the Stripe integration status displays as Connected. Tip: If the status does not show as Connected, verify your Stripe account setup and permissions, then repeat the setup process. ",
-    "url": "/pages/getting-started/integrations/stripe/#verify-connection-status",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#verify-connection-status",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#verify-connection-status"
   },"151": {
     "doc": "Stripe Integration",
     "title": "Post-Integration Notes",
     "content": ". | Test Payment: Use Stripe’s test mode to process a dummy transaction and verify functionality. | Currencies: Ensure that your Stripe account supports the currencies you plan to accept. | Troubleshooting: If payments are failing, check your Stripe dashboard for alerts or reauthorize the integration. | . Need Help? . | Check our FAQs | Submit a Support Request Form | Chat with us directly from your Servv dashboard | . ",
-    "url": "/pages/getting-started/integrations/stripe/#post-integration-notes",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/#post-integration-notes",
     
     "relUrl": "/pages/getting-started/integrations/stripe/#post-integration-notes"
   },"152": {
     "doc": "Stripe Integration",
     "title": "Stripe Integration",
     "content": " ",
-    "url": "/pages/getting-started/integrations/stripe/",
+    "url": "/servvai-docs/pages/getting-started/integrations/stripe/",
     
     "relUrl": "/pages/getting-started/integrations/stripe/"
   },"153": {
     "doc": "Email Templates",
     "title": "Email Template Configuration",
     "content": "!!! info “⚡ Premium Feature” The Notifications feature is available only on Premium plans. This document provides a comprehensive guide to configuring Email Templates within the Servv AI WordPress Plugin for sending notifications to event members who have purchased or registered for events. It is designed to help WordPress administrators and site managers effectively manage email notifications for events created via the Servv platform. Navigate to Notifications . In the Servv AI menu, select Notifications. Email Templates Dashboard open. to view and manage available templates for event member notifications. Select a Template . In the Email Templates section, locate the Template Name dropdown. Click the dropdown to view all available email templates designed for event members. Select the desired template from the dropdown to begin editing the notification content for event members. ",
-    "url": "/pages/getting-started/notification/template/#email-template-configuration",
+    "url": "/servvai-docs/pages/getting-started/notification/template/#email-template-configuration",
     
     "relUrl": "/pages/getting-started/notification/template/#email-template-configuration"
   },"154": {
     "doc": "Email Templates",
     "title": "Available Template Names",
     "content": "The following email templates are available for customization to communicate with event members who have purchased or registered for events: . | In-person Event - Booking | In-person Event - Updated | In-person Event - Cancelled | In-person Event - Reminder | In-person Event - Remove Registrant | Virtual Event - Booking | Virtual Event - Updated | Virtual Event - Cancelled | Virtual Event - Reminder | Virtual Event - Remove Registrant | Virtual Event - Finished | In-person Event - Finished | In-person Event - Booking (Member Notification) | Virtual Appointment - Booking (Member Notification) | Virtual Event - Booking (Member Notification) | In-person Event - Members Reminder | Virtual Event - Members Reminder | . ",
-    "url": "/pages/getting-started/notification/template/#available-template-names",
+    "url": "/servvai-docs/pages/getting-started/notification/template/#available-template-names",
     
     "relUrl": "/pages/getting-started/notification/template/#available-template-names"
   },"155": {
     "doc": "Email Templates",
     "title": "Default Email Subject Mapping",
     "content": "Each template is preconfigured with a default subject line, dynamically populated based on the event type to ensure clear communication with event members: . | Template Name | Default Email Subject |—————————————————|——————————————————| In-person Event - Booking | ` - ` | In-person Event - Updated | ` information has been updated | In-person Event - Cancelled | has been cancelled | In-person Event - Reminder | reminder email | In-person Event - Remove Registrant | registration has been cancelled | Virtual Event - Booking | Confirmation | Virtual Event - Updated | has been updated | Virtual Event - Cancelled | has been cancelled | Virtual Event - Reminder | reminder email | Virtual Event - Remove Registrant | registration has been cancelled | Virtual Event - Finished | Finished | In-person Event - Finished | Finished | In-person Event - Booking (Member Notification) | - New booking | Virtual Appointment - Booking (Member Notification)| - New booking | Virtual Event - Booking (Member Notification) | - New booking | In-person Event - Members Reminder | Your Event Details Inside! | Virtual Event - Members Reminder | Your Event Details Inside!` | . ",
-    "url": "/pages/getting-started/notification/template/#default-email-subject-mapping",
+    "url": "/servvai-docs/pages/getting-started/notification/template/#default-email-subject-mapping",
     
     "relUrl": "/pages/getting-started/notification/template/#default-email-subject-mapping"
   },"156": {
     "doc": "Email Templates",
     "title": "Supported Template Variables",
     "content": "The Servv AI WordPress Plugin supports dynamic variables to personalize email content for event members. Use the following variables to insert event-specific information relevant to participants: . | Variable | Description | . | `` | Category details | . | `` | Category of event | . | `` | Custom field 1 name | . | `` | Custom field 1 value | . | `` | Custom field 2 name | . | `` | Custom field 2 value | . | `` | Customer name | . | `` | Customer email | . | `` | Date of event | . | `` | Event name | . | `` | Location details | . | `` | Location operational hours | . | `` | Location of event | . | `` | Event members info list | . | `` | Store contact email | . | `` | Store name | . | `` | Time of event | . | `` | Link to Zoom event (for virtual events) | . | `` | Member name | . | `` | List of registrants’ answers to questions | . | `` | Event registrants list | . | `` | Event waiting list | . ",
-    "url": "/pages/getting-started/notification/template/#supported-template-variables",
+    "url": "/servvai-docs/pages/getting-started/notification/template/#supported-template-variables",
     
     "relUrl": "/pages/getting-started/notification/template/#supported-template-variables"
   },"157": {
     "doc": "Email Templates",
     "title": "Editing Email Templates",
     "content": "The Servv AI WordPress Plugin provides a user-friendly interface for customizing email templates to communicate effectively with event members: . Enter Editing Mode . After selecting a template, use the built-in Rich Text Editor for standard formatting (e.g., bold, italics, lists). For advanced customization, switch to the HTML Editor to directly edit the HTML code for tailored notifications. Note: Ensure that any custom HTML is compatible with common email clients (e.g., Gmail, Outlook) to avoid rendering issues for event members. Preview the Email . Use the Preview at the bottom of the template editor to view how the email will appear to event members. Verify that dynamic variables (e.g., ``) are correctly populated and that formatting is consistent across email clients. After editing, click the Save button to store your changes. The plugin syncs the updated template with the servv.io platform, ensuring consistent notifications are sent to event members. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/notification/template/#editing-email-templates",
+    "url": "/servvai-docs/pages/getting-started/notification/template/#editing-email-templates",
     
     "relUrl": "/pages/getting-started/notification/template/#editing-email-templates"
   },"158": {
     "doc": "Email Templates",
     "title": "Email Templates",
     "content": " ",
-    "url": "/pages/getting-started/notification/template/",
+    "url": "/servvai-docs/pages/getting-started/notification/template/",
     
     "relUrl": "/pages/getting-started/notification/template/"
   },"159": {
     "doc": "Ticket Type",
     "title": "Ticket Type free event",
     "content": "!!! info “⚡ Premium Feature” The Paid ticket feature is available only on Premium plans. This document provides a guide on creating different types of tickets for events. By default, the ticket type is set to “Free”. To access “Paid” and “Donation” ticket types, you need to activate the premium feature. Ticket Types . Free: Available by default. No cost associated with the ticket. Paid: A premium feature that requires activation. Allows setting a specific price for the ticket. Donation: A premium feature that requires activation. Allows users to donate any amount for the ticket. Creating a New Ticket . Click on Create new ticket to open the ticket creation form. The top section displays ticket details, which update dynamically based on the input for ticket type, name, price, and quantity. Select Ticket Type: . | Choose between Paid, Free, or Donation. Note: “Paid” and “Donation” require premium feature activation. | . Name the Ticket: . | Enter a unique name for your ticket. | . Set Ticket Price: . | For “Paid” type, enter the price (e.g., $5). | For “Free” and “Donation” type, no price is required. | . Enter Ticket Quantity: . | Specify the number of tickets available (e.g., 10). | . ",
-    "url": "/pages/getting-started/events/ticket/#ticket-type-free-event",
+    "url": "/servvai-docs/pages/getting-started/events/ticket/#ticket-type-free-event",
     
     "relUrl": "/pages/getting-started/events/ticket/#ticket-type-free-event"
   },"160": {
     "doc": "Ticket Type",
     "title": "Set Availability",
     "content": ". | Select Open to make tickets available immediately after creating the event. | . | Select Sales start &amp; end to schedule a specific time/date range for ticket sales. | . Click Save to create the ticket and make it available according to the selected availability settings. Click Cancel to discard changes. ",
-    "url": "/pages/getting-started/events/ticket/#set-availability",
+    "url": "/servvai-docs/pages/getting-started/events/ticket/#set-availability",
     
     "relUrl": "/pages/getting-started/events/ticket/#set-availability"
   },"161": {
     "doc": "Ticket Type",
     "title": "Related Links",
     "content": "Billing -https://support.servv.ai/getting-started/setting/billing/ . Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/ticket/#related-links",
+    "url": "/servvai-docs/pages/getting-started/events/ticket/#related-links",
     
     "relUrl": "/pages/getting-started/events/ticket/#related-links"
   },"162": {
     "doc": "Ticket Type",
     "title": "Ticket Type",
     "content": " ",
-    "url": "/pages/getting-started/events/ticket/",
+    "url": "/servvai-docs/pages/getting-started/events/ticket/",
     
     "relUrl": "/pages/getting-started/events/ticket/"
   },"163": {
     "doc": "Troubleshoot",
     "title": "Troubleshoot",
     "content": " ",
-    "url": "/pages/troubleshoot/troubleshoot/",
+    "url": "/servvai-docs/pages/troubleshoot/troubleshoot/",
     
     "relUrl": "/pages/troubleshoot/troubleshoot/"
   },"164": {
     "doc": "Find All Your Bookings",
     "title": "Find All Your Bookings",
     "content": "Navigate to the Bookings Section . In the Servv AI interface, Open the Bookings section in the sidebar. The booking table lists all bookings with the following columns: . | Order ID: Unique identifier for each booking. | Order Date/Time: Date and time when the booking was created. | Registrant: Email of registrant. | Event Title/Location: Name of the event and its location (in-person or virtual). | Occurrence: Indicates if the event is a one-time or recurring event. | Mode: Payment details (e.g., shows amount if paid, or Free if the event is free). | Status: Current status of the booking (e.g., Confirmed, Cancelled, Pending). | . Each row represents a single booking, providing a clear overview of all events. Table Customization . You can customize the table using the Customize option on the top right. Click on Customize and simply check the fields you want to display in the table, or uncheck the ones you don’t. Export Booking . Click on Export beside customize to download all event booking. Filtering Bookings . The Booking Section includes a filter option to control the time range of displayed bookings. The available filter options are: . | All: Displays all bookings regardless of date. | 12 Months: Shows bookings from the past 12 months. | 30 Days: Shows bookings from the past 30 days. | 7 Days: Shows bookings from the past 7 days. | . The selected filter is set as the default view. When revisiting the Booking Section, the table will display bookings based on the last selected filter. Searching Bookings . Users can search for specific bookings using the following methods: . | Event Name Search: Enter the event title in the search bar to find matching bookings. | . | Date Range Picker: Select a custom date range to filter bookings within specific start and end dates. | . The search functionality allows quick access to relevant bookings based on event details or timeframes. Advance Filtering . A Filter button, located beside the search bar and date picker, allows refining the booking list by setting a Price Range (minimum and maximum values). After selecting the desired filters, click Apply to update the booking table with the filtered results. Resend Confirmation and Cancel Booking . Each booking in the table includes a hamburger menu (three horizontal lines) beside the Status column. Clicking this menu reveals two action options: . | Resend Confirmation: Sends a confirmation email to the customer for the selected booking. | Cancel Booking: Cancels the selected booking, updating its status to Cancelled and notifying the customer. | . Displays a success message upon completion or an error message if the action fails. These actions allow administrators to manage bookings efficiently without navigating away from the table. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/bookings/viewbookings/",
+    "url": "/servvai-docs/pages/getting-started/bookings/viewbookings/",
     
     "relUrl": "/pages/getting-started/bookings/viewbookings/"
   },"165": {
     "doc": "View Events",
     "title": "Get Your All Event",
     "content": " ",
-    "url": "/pages/getting-started/events/viewevent/#get-your-all-event",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/#get-your-all-event",
     
     "relUrl": "/pages/getting-started/events/viewevent/#get-your-all-event"
   },"166": {
     "doc": "View Events",
     "title": "Navigate to the Events Page",
     "content": "Access the Events page from the side menu in your Servv dashboard. All created events are displayed in a table with the following columns: . | Title | Date | Time | Location | Type (One-time/Recurring) | Status | . ",
-    "url": "/pages/getting-started/events/viewevent/#navigate-to-the-events-page",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/#navigate-to-the-events-page",
     
     "relUrl": "/pages/getting-started/events/viewevent/#navigate-to-the-events-page"
   },"167": {
     "doc": "View Events",
     "title": "Use the Upcoming/Past Event Toggle",
     "content": "Switch between viewing upcoming and past events: . | Upcoming Events: Displays all events that have not yet started. | Past Events: Shows all events that have concluded. | . ",
-    "url": "/pages/getting-started/events/viewevent/#use-the-upcomingpast-event-toggle",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/#use-the-upcomingpast-event-toggle",
     
     "relUrl": "/pages/getting-started/events/viewevent/#use-the-upcomingpast-event-toggle"
   },"168": {
     "doc": "View Events",
     "title": "Filter and Search Events",
     "content": "Locate specific events with ease: . | Search by Title: Type part of an event’s name to quickly find it. | . | Filter by Date Range: Use the date picker to view events within a specific time frame. | . ",
-    "url": "/pages/getting-started/events/viewevent/#filter-and-search-events",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/#filter-and-search-events",
     
     "relUrl": "/pages/getting-started/events/viewevent/#filter-and-search-events"
   },"169": {
     "doc": "View Events",
     "title": "Need Help?",
     "content": "For further assistance: . | Visit our FAQs | Submit a Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/events/viewevent/#need-help",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/#need-help",
     
     "relUrl": "/pages/getting-started/events/viewevent/#need-help"
   },"170": {
     "doc": "View Events",
     "title": "View Events",
     "content": " ",
-    "url": "/pages/getting-started/events/viewevent/",
+    "url": "/servvai-docs/pages/getting-started/events/viewevent/",
     
     "relUrl": "/pages/getting-started/events/viewevent/"
   },"171": {
     "doc": "Widget",
     "title": "Servv Widget Shortcode Guide",
     "content": "The Servv plugin allows you to add a fully customizable Event Widget anywhere on your WordPress website using a simple shortcode. ",
-    "url": "/pages/getting-started/settings/widget/#servv-widget-shortcode-guide",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#servv-widget-shortcode-guide",
     
     "relUrl": "/pages/getting-started/settings/widget/#servv-widget-shortcode-guide"
   },"172": {
     "doc": "Widget",
     "title": "How to Add the Widget",
     "content": "Follow these steps to display the widget: . | Open the page or post where you want the widget to appear. | Click the + button to add a new block and choose Shortcode. | Paste the following shortcode inside the block: | . [servvai style=”cyan” preset=”light”] . | style defines the widget’s color theme. | preset defines the brightness mode (light or dark). | . ",
-    "url": "/pages/getting-started/settings/widget/#how-to-add-the-widget",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#how-to-add-the-widget",
     
     "relUrl": "/pages/getting-started/settings/widget/#how-to-add-the-widget"
   },"173": {
     "doc": "Widget",
     "title": "Widget Style Options",
     "content": "You can customize the widget appearance by changing the style and preset attributes in the shortcode. Available Styles (style): . | blue | green | orange | red | purple | light-red | cyan | . Available Presets (preset): . | light | dark | . Example Shortcodes: . | Light blue theme: [servvai style=”blue” preset=”light”] | . | Dark orange theme: [servvai style=”orange” preset=”dark”] | . ",
-    "url": "/pages/getting-started/settings/widget/#widget-style-options",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#widget-style-options",
     
     "relUrl": "/pages/getting-started/settings/widget/#widget-style-options"
   },"174": {
     "doc": "Widget",
     "title": "Filtered Widget Shortcodes",
     "content": "Servv AI also allows you to display events filtered by Location, Language, Member, or Category directly through shortcode. This feature is useful if you want to show only specific types of events on a page — for example, events happening in a certain location or belonging to a specific category. Single Filter Usage . You can apply any one of the filters below individually: . | Location-based events: [servvai location=”pune”] . | Language-based events: [servvai language=”english”] . | Category-based events: [servvai category=”webinar”] . | Member-based events: [servvai member=”john-doe”] . | . Multiple Filter Values . You can include multiple values for the same filter by separating them with a $ symbol. Examples: . | Multiple locations: [servvai location=”pune$mumbai$delhi”] . | Multiple languages: [servvai language=”english$spanish”] . | Multiple categories: [servvai category=”webinar$workshop$conference”] . | Multiple members: [servvai member=”john-doe$jane-smith”] . | . Combined Filters . You can also combine multiple filters together in one shortcode to narrow down the events shown in the widget. Example — Show only English webinars happening in Canada: . [servvai location=”canada” language=”english” category=”webinar”] . You can mix and match any combination of location, language, category, and member filters. ",
-    "url": "/pages/getting-started/settings/widget/#filtered-widget-shortcodes",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#filtered-widget-shortcodes",
     
     "relUrl": "/pages/getting-started/settings/widget/#filtered-widget-shortcodes"
   },"175": {
     "doc": "Widget",
     "title": "Widget Settings",
     "content": " ",
-    "url": "/pages/getting-started/settings/widget/#widget-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#widget-settings",
     
     "relUrl": "/pages/getting-started/settings/widget/#widget-settings"
   },"176": {
     "doc": "Widget",
     "title": "Accessing Widget Settings",
     "content": "Navigate to the Serve.AI Sidebar: Locate the Settings option in the Serve.AI menu on the sidebar. In the Settings dashboard, click on the Widget section to access the widget configuration options. The widget settings are divided into four main categories. Display Mode Options, Item Settings, Filter Settings, and Additional Widget Display Settings. Each section is described below. Display Mode Options . These settings allow you to control how the widget appears on the page, offering two layout options tailored to your preferences. Dropdown Menu: . | Grid: Displays events in a grid layout. | . | List: Displays events in a list format. | . Fluid Grid Checkbox: Enable the Fluid Grid checkbox (below the dropdown menu) to make the grid layout responsive, adapting to the screen size for a seamless display. Item Settings . This section allows you to configure display limits and default page sizes for items in the widget. Grid Item Description Display Limit: Set the maximum number of characters or lines to display for item descriptions in the grid layout. List Item Description Display Limit: Set the maximum number of characters or lines to display for item descriptions in the list layout. Default Page size: Use the dropdown menu to select the default number of items to display per page (e.g., 10, 20, 50, etc.). Filter Settings . This section allows you to select which filters are displayed on the event widget, enabling users to refine the events they see. Filter Checkboxes: . | Location Filter: Displays a filter for event locations. | Language Filter: Displays a filter for event languages. | Member Filter: Displays a filter for event members or attendees. | Category Filter: Displays a filter for event categories. | . Usage: Check the boxes for the filters you want to appear in the event creation form. Unchecked filters will not be visible to users. Additional Widget Display Settings . This section allows you to control the visibility of various widget components and customize the event widget’s appearance. Widget Elements Checkboxes: . | Show Language Selector: Displays a language selector in the widget. | Show Calendar: Displays a calendar in the widget. | Display Calendar Permanently: Keeps the calendar visible at all times (requires “Show Calendar” to be enabled). | Show Widget Titles: Displays titles for the widget sections. | Show Event Counter: Displays a counter showing the number of events. | View Mode Switch: Enables a toggle to switch between grid and list views. | . Item Elements Checkboxes: . | Show Event Image: Displays images for events. | Show Image as a Square: Forces event images to display as square thumbnails. | Show Separate Badges: Displays badges (e.g., for event status) separately from other elements. | Show Quantity: Displays the quantity or number of available spots for events. | Share Button: Displays a share button for events. | Event Type Badge: Displays a badge indicating the event type. | . Saving Changes . After configuring the desired settings, click the Save button at the top of the Settings panel. All configured settings will be saved and applied. Need Help? . If you’re stuck or need further assistance: . | Check our FAQs | Reach out via Support Request Form | Chat with us directly from your Servv dashboard | . We’re here to help — every step of the way. ",
-    "url": "/pages/getting-started/settings/widget/#accessing-widget-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/#accessing-widget-settings",
     
     "relUrl": "/pages/getting-started/settings/widget/#accessing-widget-settings"
   },"177": {
     "doc": "Widget",
     "title": "Widget",
     "content": " ",
-    "url": "/pages/getting-started/settings/widget/",
+    "url": "/servvai-docs/pages/getting-started/settings/widget/",
     
     "relUrl": "/pages/getting-started/settings/widget/"
   },"178": {
     "doc": "Widget Translations Settings",
     "title": "Navigating to Servv AI Widget Translations",
     "content": "Follow these steps to access the Widget Translations section in Servv.io: . Step 1: Click on Servv . Click on ServvAI Event Booking to open Servv Ai. ",
-    "url": "/pages/getting-started/settings/widgettranslations/#navigating-to-servv-ai-widget-translations",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#navigating-to-servv-ai-widget-translations",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#navigating-to-servv-ai-widget-translations"
   },"179": {
     "doc": "Widget Translations Settings",
     "title": "Step 2: Go to the Setting",
     "content": "Click on the Settings tab in the dashboard menu. You will now see the following sections: . | General Settings | Reminders | Billing Plans | Fast Checkout | Widget Settings | Widget Translation | . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#step-2-go-to-the-setting",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#step-2-go-to-the-setting",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#step-2-go-to-the-setting"
   },"180": {
     "doc": "Widget Translations Settings",
     "title": "Step 3: Click Widget Translations",
     "content": "Open Widget Translations . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#step-3-click-widget-translations",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#step-3-click-widget-translations",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#step-3-click-widget-translations"
   },"181": {
     "doc": "Widget Translations Settings",
     "title": "Step 4: Translate widget content to different languages.",
     "content": " ",
-    "url": "/pages/getting-started/settings/widgettranslations/#step-4-translate-widget-content-to-different-languages",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#step-4-translate-widget-content-to-different-languages",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#step-4-translate-widget-content-to-different-languages"
   },"182": {
     "doc": "Widget Translations Settings",
     "title": "Default Language",
     "content": "Set the primary language for the widget. Example: Hindi - हिन्दी, English . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#default-language",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#default-language",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#default-language"
   },"183": {
     "doc": "Widget Translations Settings",
     "title": "Language for Translation",
     "content": "Choose a language to customize widget text labels. Example: English - English . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#language-for-translation",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#language-for-translation",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#language-for-translation"
   },"184": {
     "doc": "Widget Translations Settings",
     "title": "Global Widget Translations",
     "content": "Customize common labels: . | Price Lable: Price | Filters Lable: Filters | Calendar Lable: Calendar | Price Free Lable: Free | Day label plural: d | Day label singular:d | Hour label plural:h | Hour label singular:h | Minute label plural:m | Minute label singular:m | . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#global-widget-translations",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#global-widget-translations",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#global-widget-translations"
   },"185": {
     "doc": "Widget Translations Settings",
     "title": "Events Widget Translations",
     "content": "Translate UI elements specific to events: . | Open dialog button:Book event | Events list title:Events list | Bundles list title:Bundles list | Widget events list switch label:Events | Widget bundles list switch label:Bundles | Bundle add to cart button label:Add to Cart | Event add to cart button label:Add to Cart | Live shopping join button label:Join | Live shopping start countdown:in | Bundle events list title:Included events | Share event panel title:Share this event | Search event placeholder:Search | Items counter label:items | Clear filters label:clear | Book button label:Book now | Virtual appointment label:Appointment | Virtual event label:Virtual | In person event label:In-Person | Webinar label:Webinar | Live shopping label:Live Shopping | Event details button label:Details | Event description field label:Description | Today separator label:Today | Tomorrow separator label:Tomorrow | Filters step label:Filters | Result stype label:Result | Go to filters result button:Next: Result | Label for month without events:There are no events scheduled for this month | Next month button:Next | Available quantity suffix:Left | . ",
-    "url": "/pages/getting-started/settings/widgettranslations/#events-widget-translations",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#events-widget-translations",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#events-widget-translations"
   },"186": {
     "doc": "Widget Translations Settings",
     "title": "Step 5: Click on Save",
     "content": "Afetr making any changes clikc on save button. ",
-    "url": "/pages/getting-started/settings/widgettranslations/#step-5-click-on-save",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/#step-5-click-on-save",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/#step-5-click-on-save"
   },"187": {
     "doc": "Widget Translations Settings",
     "title": "Widget Translations Settings",
     "content": " ",
-    "url": "/pages/getting-started/settings/widgettranslations/",
+    "url": "/servvai-docs/pages/getting-started/settings/widgettranslations/",
     
     "relUrl": "/pages/getting-started/settings/widgettranslations/"
   },"188": {
     "doc": "Workflow",
     "title": "Trigger Workflow Settings",
     "content": "This feature allows you to connect your servv ai with n8n or other automation tools. By enabling these triggers, you can automatically start workflows when certain actions occur — such as creating events, receiving bookings, or canceling bookings. ",
-    "url": "/pages/getting-started/settings/workflow/#trigger-workflow-settings",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#trigger-workflow-settings",
     
     "relUrl": "/pages/getting-started/settings/workflow/#trigger-workflow-settings"
   },"189": {
     "doc": "Workflow",
     "title": "Event Created Trigger",
     "content": "Description: Enable this option to trigger an n8n workflow whenever a new event is created in WordPress. How It Works: Once enabled, servv ai will send event data to the configured n8n webhook URL using a POST request. ",
-    "url": "/pages/getting-started/settings/workflow/#event-created-trigger",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#event-created-trigger",
     
     "relUrl": "/pages/getting-started/settings/workflow/#event-created-trigger"
   },"190": {
     "doc": "Workflow",
     "title": "New Booking Trigger",
     "content": "Description: Enable this option to trigger a workflow whenever a new booking is made for an event. How It Works: When a user books an event, servv ai sends booking details to your configured n8n webhook URL using a POST request. ",
-    "url": "/pages/getting-started/settings/workflow/#new-booking-trigger",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#new-booking-trigger",
     
     "relUrl": "/pages/getting-started/settings/workflow/#new-booking-trigger"
   },"191": {
     "doc": "Workflow",
     "title": "Canceled Booking Trigger",
     "content": "Description: Enable this option to trigger a workflow whenever a booking is canceled by a user or admin. How It Works: When a booking is canceled, servv ai sends a cancellation details to your n8n webhook URL using a POST request. ",
-    "url": "/pages/getting-started/settings/workflow/#canceled-booking-trigger",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#canceled-booking-trigger",
     
     "relUrl": "/pages/getting-started/settings/workflow/#canceled-booking-trigger"
   },"192": {
     "doc": "Workflow",
     "title": "Configuration",
     "content": "| Setting | Description | Example | . | HTTP Method | The method used to send data to n8n. | POST | . | Endpoint URL | The n8n webhook URL to receive cancellation data. | (Add your webhook URL here) | . | Secret | A secret key used for validation. | (Enter your secret key) | . ",
-    "url": "/pages/getting-started/settings/workflow/#configuration",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#configuration",
     
     "relUrl": "/pages/getting-started/settings/workflow/#configuration"
   },"193": {
     "doc": "Workflow",
     "title": "How to Use",
     "content": ". | Go to your WordPress Dashboard → Servv AI → Setting → Workflow. | . | Toggle ON the trigger you want to use: . | Event Created | New Booking | Canceled Booking | . | Add your Webhook URL and Secret (from your n8n workflow). | . | Save the settings. | Test by performing the related action in servv ai — the workflow in n8n should trigger automatically. | . ",
-    "url": "/pages/getting-started/settings/workflow/#how-to-use",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#how-to-use",
     
     "relUrl": "/pages/getting-started/settings/workflow/#how-to-use"
   },"194": {
     "doc": "Workflow",
     "title": "Learn How to Create an n8n Workflow",
     "content": "If you’re new to n8n, follow the official documentation to learn how to create a webhook-based workflow: n8n Webhook Node Documentation . This guide explains how to: . | Create a new workflow in n8n | Add a Webhook node | Configure the HTTP Method and Response Mode | Copy your webhook URL and use it inside the servv ai workflow under settings | . ",
-    "url": "/pages/getting-started/settings/workflow/#learn-how-to-create-an-n8n-workflow",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#learn-how-to-create-an-n8n-workflow",
     
     "relUrl": "/pages/getting-started/settings/workflow/#learn-how-to-create-an-n8n-workflow"
   },"195": {
     "doc": "Workflow",
     "title": "Notes",
     "content": ". | The Secret value in servv ai must match the Secret configured in your n8n workflow. | Each trigger operates independently — you can enable one, two, or all triggers. | These webhooks help automate processes like sending notifications, or creating reports. | . Thank you for using Servv AI. ",
-    "url": "/pages/getting-started/settings/workflow/#notes",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/#notes",
     
     "relUrl": "/pages/getting-started/settings/workflow/#notes"
   },"196": {
     "doc": "Workflow",
     "title": "Workflow",
     "content": " ",
-    "url": "/pages/getting-started/settings/workflow/",
+    "url": "/servvai-docs/pages/getting-started/settings/workflow/",
     
     "relUrl": "/pages/getting-started/settings/workflow/"
   },"197": {
     "doc": "Zoom Integration",
     "title": "Zoom Integration Guide",
     "content": "!!! info “⚡ Premium Feature” The Zoom integration feature is available only on Premium plans. This document provides detailed instructions for integrating Zoom with your Servv AI account to enable seamless video conferencing for your events. This guide is designed for clarity and ease of use, ensuring a smooth setup process. It assumes familiarity with web-based platforms and basic navigation within a user interface. Note: Ensure you have administrative permissions for your Zoom account and access to the Integration section in Servv AI. Screenshots referenced in this guide are illustrative and may vary slightly based on platform updates. ",
-    "url": "/pages/getting-started/integrations/zoom/#zoom-integration-guide",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#zoom-integration-guide",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#zoom-integration-guide"
   },"198": {
     "doc": "Zoom Integration",
     "title": "Prerequisites",
     "content": ". | Active Servv AI account with administrative or integration permissions. | Zoom account with host privileges (Basic, Pro, Business, or Enterprise). | Stable internet connection and a supported browser (e.g., Chrome, Firefox, or Edge). | . ",
-    "url": "/pages/getting-started/integrations/zoom/#prerequisites",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#prerequisites",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#prerequisites"
   },"199": {
     "doc": "Zoom Integration",
     "title": "Navigate to the Integration Section",
     "content": "Log in to your Servv AI account. Locate the side menu bar on the left-hand side of the interface. Click on the Integration option to access the integration dashboard. Reference: The Integration section is typically represented by a dedicated icon or label in the side menu. ",
-    "url": "/pages/getting-started/integrations/zoom/#navigate-to-the-integration-section",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#navigate-to-the-integration-section",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#navigate-to-the-integration-section"
   },"200": {
     "doc": "Zoom Integration",
     "title": "Select Zoom Integration",
     "content": "In the integration dashboard, locate the Zoom option. Click on the Zoom tile or button to proceed with the Zoom integration setup. ",
-    "url": "/pages/getting-started/integrations/zoom/#select-zoom-integration",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#select-zoom-integration",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#select-zoom-integration"
   },"201": {
     "doc": "Zoom Integration",
     "title": "Initiate the Connection",
     "content": "On the Zoom integration page, click the Connect button. You will be redirected to Zoom’s login page. ",
-    "url": "/pages/getting-started/integrations/zoom/#initiate-the-connection",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#initiate-the-connection",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#initiate-the-connection"
   },"202": {
     "doc": "Zoom Integration",
     "title": "Sign in to Zoom",
     "content": "Enter your Zoom account credentials (email and password). Click Sign In to proceed. If already signed in, you may skip this step. ",
-    "url": "/pages/getting-started/integrations/zoom/#sign-in-to-zoom",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#sign-in-to-zoom",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#sign-in-to-zoom"
   },"203": {
     "doc": "Zoom Integration",
     "title": "Authorize Servv AI Access",
     "content": "A permissions screen will display, outlining the access Servv AI requires (e.g., scheduling meetings, retrieving meeting details). Review the permissions carefully. Click Allow to authorize the connection. ",
-    "url": "/pages/getting-started/integrations/zoom/#authorize-servv-ai-access",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#authorize-servv-ai-access",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#authorize-servv-ai-access"
   },"204": {
     "doc": "Zoom Integration",
     "title": "Verify Connection Status",
     "content": "Once authorized, you will be redirected to the integration dashboard. Confirm that the Zoom integration status displays as Connected. Tip: If the status does not show as Connected, ensure you have the correct Zoom account permissions and repeat the setup process. ",
-    "url": "/pages/getting-started/integrations/zoom/#verify-connection-status",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#verify-connection-status",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#verify-connection-status"
   },"205": {
     "doc": "Zoom Integration",
     "title": "Post-Integration Notes",
     "content": ". | Test Meeting: Schedule a test meeting in Servv AI to confirm the Zoom connection is working. | Multiple Hosts: Add additional Zoom hosts in your integration settings if required. | Troubleshooting: If meetings are not being created, reauthorize the Zoom integration or check your Zoom account limits. | . Need Help? . | Check our FAQs | Submit a Support Request Form | Chat with us directly from your Servv dashboard | . ",
-    "url": "/pages/getting-started/integrations/zoom/#post-integration-notes",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/#post-integration-notes",
     
     "relUrl": "/pages/getting-started/integrations/zoom/#post-integration-notes"
   },"206": {
     "doc": "Zoom Integration",
     "title": "Zoom Integration",
     "content": " ",
-    "url": "/pages/getting-started/integrations/zoom/",
+    "url": "/servvai-docs/pages/getting-started/integrations/zoom/",
     
     "relUrl": "/pages/getting-started/integrations/zoom/"
   }
